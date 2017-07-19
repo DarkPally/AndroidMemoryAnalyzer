@@ -1,0 +1,5 @@
+F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer.HeapAnalyzer\obj\Debug\AndroidMemoryAnalyzer.HeapAnalyzer.csprojResolveAssemblyReference.cache
+F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer.HeapAnalyzer\bin\Debug\AndroidMemoryAnalyzer.HeapAnalyzer.dll
+F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer.HeapAnalyzer\bin\Debug\AndroidMemoryAnalyzer.HeapAnalyzer.pdb
+F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer.HeapAnalyzer\obj\Debug\AndroidMemoryAnalyzer.HeapAnalyzer.dll
+F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer.HeapAnalyzer\obj\Debug\AndroidMemoryAnalyzer.HeapAnalyzer.pdb

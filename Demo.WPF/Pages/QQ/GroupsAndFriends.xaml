@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="Demo.WPF.Pages.QQ.GroupsAndFriends"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             DataContext="{Binding QQViewModel}"
+             d:DesignHeight="300" d:DesignWidth="300"
+             xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid">
+    <Grid  HorizontalAlignment="Center" Width="720">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center" Height="26">
+            <TextBlock Text="选择文件:" Margin="0,0,10,0" VerticalAlignment="Center"/>
+            <StackPanel Orientation="Horizontal" Margin="0,0,10,0" >
+                <TextBox x:Name="tb_fileAddress" VerticalAlignment="Center" Text="{Binding FilePath,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Width="300" Margin="0,0,10,0"/>
+                <Button Content="浏览..." Click="Button_Click"/>
+            </StackPanel>
+            <Button Content="开始解析"  Command="{Binding AnalyzeFile}" Margin="0,0,10,0"/>
+            <TextBlock Text="{Binding State}" VerticalAlignment="Center" Margin="0,0,10,0"/>                
+        </StackPanel>
+
+        <dxg:GridControl Grid.Row="1" AutoGenerateColumns="AddNew" EnableSmartColumnsGeneration="True"
+                         ItemsSource="{Binding Groups}">
+            <dxg:GridControl.Columns>
+                <dxg:GridColumn FieldName="Name" Header="名称" />
+                <dxg:GridColumn FieldName="UIN" Header="QQ号" />
+                <dxg:GridColumn FieldName="Remark" Header="备注名" />
+                <dxg:GridColumn FieldName="Gender" Header="性别" />
+                <dxg:GridColumn FieldName="Age" Header="年龄" />
+            </dxg:GridControl.Columns>
+            <dxg:GridControl.View>
+                
+                <dxg:TreeListView AllowPerPixelScrolling="True" ShowTotalSummary="True"
+                                  KeyFieldName="ID" ParentFieldName="GroupID"/>
+            </dxg:GridControl.View>
+        </dxg:GridControl>
+    </Grid>
+</UserControl>

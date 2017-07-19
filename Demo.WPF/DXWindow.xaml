@@ -1,0 +1,35 @@
+﻿<dx:DXWindow
+    x:Class="Demo.WPF.DXWindow1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+    xmlns:qq="clr-namespace:Demo.WPF.Pages.QQ"
+    xmlns:mm="clr-namespace:Demo.WPF.Pages.MicroMsg"
+    Title="内存取证演示程序" Height="600" Width="800"
+    dx:ThemeManager.ThemeName="Office2013LightGray"
+    >
+
+    <Grid>
+        <dx:DXTabControl>
+            <dx:DXTabItem Header="QQ好友">
+
+                <Grid  Background="Transparent">
+                    <qq:GroupsAndFriends />
+                </Grid>
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="QQ消息">
+
+                <Grid  Background="Transparent">
+                    <qq:Messages />
+                </Grid>
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="微信好友">
+
+                <Grid  Background="Transparent">
+                    <mm:Friends />
+                </Grid>
+            </dx:DXTabItem>
+        </dx:DXTabControl>
+
+    </Grid>
+</dx:DXWindow>

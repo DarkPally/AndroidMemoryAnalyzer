@@ -1,0 +1,3607 @@
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1496529632 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488034240 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1496529632 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480963784 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1489343320 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480963784 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1482787992 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491972256 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1482787992 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481702040 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1492682192 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481702040 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478915656 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1494990488 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478915656 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1487530904 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491464584 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1487530904 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1484049152 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1497197016 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1484049152 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481693248 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1494084768 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481693248 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1487530656 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1487098384 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1487530656 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480373176 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488275720 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480373176 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478738456 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1486000096 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478738456 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1482948592 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491893968 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1482948592 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483638912 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491470136 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483638912 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481009648 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1493802256 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481009648 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481453336 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1493814616 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481453336 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1482674976 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1495524208 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1482674976 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480127904 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1492225688 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480127904 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481716728 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1485902864 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481716728 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1479072248 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491489480 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1479072248 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480709960 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1486405368 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480709960 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478689736 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488913728 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478689736 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478138128 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1493856856 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478138128 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480955952 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498351152 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480955952 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1482677624 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1496777456 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1482677624 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478014040 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1489001920 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478014040 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481746296 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1489433816 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481746296 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483266992 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1489012576 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483266992 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481446768 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498730680 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481446768 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481100456 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498773568 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481100456 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483555232 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1487465296 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:0 (null) 
+a:-1498355888 (null) 
+a:-1483555232 (null) 
+a:1 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483158800 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491179696 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483158800 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1479642728 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1497422672 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1479642728 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483169168 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491884904 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483169168 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481621072 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1485784792 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481621072 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1484649192 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1493921552 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1484649192 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1477927312 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1497177392 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1477927312 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481454080 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1494025976 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481454080 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1479821256 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1489132968 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1479821256 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478851592 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1497223632 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478851592 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483652960 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1493860336 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483652960 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1482183224 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1489159968 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1482183224 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483165696 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1485840120 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483165696 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483645224 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1496929528 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483645224 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483266496 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1495429488 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483266496 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481510920 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1489245384 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481510920 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481535424 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1487976512 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481535424 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1479201056 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498206624 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1479201056 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481010144 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1494069984 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481010144 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483133368 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1485470904 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483133368 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481526048 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1495465360 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481526048 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1484085512 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1489196656 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1484085512 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1484052648 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488479488 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1484052648 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483555232 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1487683800 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483555232 (null) 
+a:1 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483166688 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1495596048 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483166688 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1498691592 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491662816 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1498691592 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483413984 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1494072352 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483413984 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481081696 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1497109424 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481081696 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480372808 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1497672800 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480372808 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478684904 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1493803416 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478684904 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480956208 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498686400 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480956208 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483164456 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1489265336 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483164456 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480989776 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1495667960 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480989776 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480050264 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1493616200 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480050264 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481008904 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1493825352 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481008904 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483646424 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488834408 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483646424 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481524568 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491687848 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481524568 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483412008 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1487075784 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483412008 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481011136 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491656872 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481011136 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481425296 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1492352488 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481425296 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483554984 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1485922168 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483554984 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1487161656 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1484030808 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1487161656 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483168176 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498294176 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483168176 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1482956928 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491977864 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1482956928 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1482722608 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1487842376 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1482722608 (null) 
+a:1 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481715232 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1483744472 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481715232 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1479752584 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1497892312 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1479752584 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483557232 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498038320 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483557232 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481592912 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491794472 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481592912 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1479128880 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1492636784 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1479128880 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480967752 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491255760 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480967752 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1479300768 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498049640 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1479300768 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483238296 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1492195296 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483238296 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483702752 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1484228008 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483702752 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1484832944 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1495776928 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1484832944 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1497130248 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498047376 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1497130248 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481090016 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1495711856 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481090016 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481011384 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498083808 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481011384 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1497115584 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1492950712 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1497115584 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1482677128 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1494101480 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1482677128 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478988648 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498672936 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478988648 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478685312 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1487959080 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478685312 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1484082408 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1484771952 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1484082408 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481325712 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1492841056 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481325712 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480226752 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1494495888 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480226752 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483646920 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1489308496 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483646920 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481698320 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1499043304 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481698320 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481100952 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498415856 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481100952 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481650152 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498218736 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481650152 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1485179432 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1485754192 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1485179432 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483809864 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1492330176 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483809864 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1486297496 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1492225568 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1486297496 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1484089920 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488349152 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1484089920 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478253008 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1485536816 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478253008 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481714960 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1492049272 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481714960 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1482326544 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491343344 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1482326544 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478808112 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1497451144 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478808112 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1498530992 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1485496472 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1498530992 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1496600944 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1495716632 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1496600944 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481702760 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1493067944 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481702760 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481255096 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491614840 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481255096 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480804448 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1499371632 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480804448 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1482722608 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1487756472 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:0 (null) 
+a:-1498355888 (null) 
+a:-1482722608 (null) 
+a:1 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1491239288 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1494628904 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1491239288 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478991976 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1497756368 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478991976 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481080680 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1486109160 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481080680 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1479053192 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491290144 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1479053192 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483378728 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1496694968 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483378728 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1479954920 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1485957168 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1479954920 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1484196720 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1495845520 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1484196720 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481071136 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1486419784 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481071136 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1486766200 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1493617504 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1486766200 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1479030048 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1492231032 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1479030048 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1479055064 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1494706760 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1479055064 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481651224 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1485976096 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481651224 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483647176 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1489342632 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483647176 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1477952728 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1485565088 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1477952728 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481257528 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1496047424 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481257528 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1479530376 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1485304264 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1479530376 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481679712 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1496149320 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481679712 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483555728 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1497508000 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483555728 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481668520 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1496139384 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481668520 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480968000 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1493630496 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480968000 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1491246864 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498256720 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1491246864 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1484048248 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1487749640 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1484048248 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1496511152 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1495419528 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1496511152 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483202024 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498105880 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483202024 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1487527432 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1489689344 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1487527432 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1479106352 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1486462488 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1479106352 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478017008 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491314264 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478017008 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480966264 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1489358416 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480966264 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478024048 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488174256 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478024048 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478101240 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1489108344 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478101240 (null) 
+a:0 
+———————————————— 
+c:0 (null) 
+b:0 (null) 
+a:-1496537464 (null) 
+a:-1498355888 (null) 
+a:-1499087488 (pxv) 
+a:-1496514432 (java.util.LinkedList) 
+a:-1499099872 (java.util.HashSet) 
+a:0 
+a:1489632539688 
+b:86400000 
+b:1 
+c:2 
+a:1 
+d:3 
+e:-2147483648 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481417160 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488399576 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481417160 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483265504 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1495079552 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483265504 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478685712 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488718304 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478685712 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481045576 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491014664 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481045576 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1484080968 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1496473872 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1484080968 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483168424 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488224576 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483168424 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481413464 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1497169072 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481413464 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1482680384 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488540712 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1482680384 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1482676128 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1486956600 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1482676128 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481023992 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498129328 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481023992 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1486294872 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491212576 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1486294872 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478690096 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1484855224 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478690096 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481298808 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488195344 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481298808 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481010640 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1495069160 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481010640 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478019408 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1496496544 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478019408 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480253000 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1496516616 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480253000 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1482707160 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1487180464 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1482707160 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480958776 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1489557952 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480958776 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478132008 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498629416 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478132008 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481693592 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488725960 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481693592 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1482788432 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491647608 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1482788432 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1479915496 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488859400 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1479915496 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483238792 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488346600 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483238792 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481535672 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1492312976 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481535672 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481231336 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1496648936 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481231336 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478086784 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1493933600 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478086784 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1487531152 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1496244816 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1487531152 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478037480 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491889208 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478037480 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481470264 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491216576 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481470264 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478686992 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1485102624 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478686992 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483448104 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498884560 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483448104 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483674104 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498513408 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483674104 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480927368 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1495158576 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480927368 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480878680 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1487934576 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480878680 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483158552 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1496704888 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483158552 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1484241800 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1492034784 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1484241800 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480012616 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1496726232 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480012616 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483163960 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488834192 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483163960 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480962792 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491672000 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480962792 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480951280 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1486145208 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480951280 (null) 
+a:0 
+———————————————— 
+c:0 (null) 
+b:0 (null) 
+a:-1494262272 (null) 
+a:-1494346728 (null) 
+a:-1493060576 (pxv) 
+a:-1494262640 (java.util.LinkedList) 
+a:-1494262592 (java.util.HashSet) 
+a:0 
+a:1478681520252 
+b:86400000 
+b:1 
+c:2 
+a:1 
+d:3 
+e:-2147483648 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1477955416 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491988560 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1477955416 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1484796928 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1497210440 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1484796928 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1482850904 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1486060896 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1482850904 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1479607608 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1496820448 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1479607608 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478689368 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1495290112 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478689368 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1477976016 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1486686936 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1477976016 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478976472 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1496834096 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478976472 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481073984 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1485687552 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481073984 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481685576 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1487593544 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481685576 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480373536 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491357240 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480373536 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1482665312 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1492003992 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1482665312 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483414976 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491728424 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483414976 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1487158368 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1485451640 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1487158368 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481620312 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498517152 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481620312 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1482792328 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1493659880 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1482792328 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481024488 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491034440 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481024488 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1486744424 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1497892816 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1486744424 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478029512 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1497075648 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478029512 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481456072 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491366752 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481456072 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481044840 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498507112 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481044840 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483123808 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1492021920 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483123808 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1484568208 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491376640 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1484568208 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483565920 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1492405056 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483565920 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483238048 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1492373176 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483238048 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1482723376 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488465696 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1482723376 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1497207728 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488045168 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1497207728 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483875952 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1493920520 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483875952 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1482366704 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491410592 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1482366704 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483646672 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498028248 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483646672 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1479680456 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488923776 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1479680456 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1496623424 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1489117352 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1496623424 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481701792 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491392312 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481701792 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1479811912 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1483652688 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1479811912 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1479969440 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491584424 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1479969440 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1479704144 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1495299000 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1479704144 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1496998120 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488804800 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1496998120 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1497103272 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1486272968 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1497103272 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1484026008 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488220656 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1484026008 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478992360 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1497582880 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478992360 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481251600 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488448728 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481251600 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1482843432 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1495388392 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1482843432 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478614080 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498757200 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478614080 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1477953480 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1493703248 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1477953480 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481534328 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498164512 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481534328 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481412224 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1494000280 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481412224 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480963536 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1489131944 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480963536 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1484755824 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1496898544 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1484755824 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1484214232 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491603912 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1484214232 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480271328 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491413880 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480271328 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478745632 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491614672 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478745632 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480717160 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491301336 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480717160 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481473016 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1485715504 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481473016 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1486766944 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498629976 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1486766944 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1480203584 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498660560 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1480203584 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481708952 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1489329864 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481708952 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481056440 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488734208 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481056440 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481561256 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491634208 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481561256 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481727464 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1492342640 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481727464 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1497105960 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1492205928 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1497105960 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1478697664 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1492198024 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1478697664 (null) 
+a:0 
+———————————————— 
+i:-1483379976 (java.util.concurrent.ConcurrentHashMap) 
+a:0 (null) 
+a:-1496617784 (null) 
+a:-1498355888 (null) 
+a:-1496594112 (null) 
+a:-1486667544 (java.util.ArrayList) 
+a:-1496594424 (java.util.HashMap) 
+a:-1496617928 (java.util.concurrent.ConcurrentHashMap) 
+a:-1496594368 (java.util.concurrent.ConcurrentHashMap) 
+a:-1496618376 (java.util.concurrent.atomic.AtomicBoolean) 
+a:-1496594440 (null) 
+h:-1496617448 (java.util.concurrent.ConcurrentHashMap) 
+g:-1477899704 (java.util.concurrent.ConcurrentHashMap) 
+b:-1482805360 (java.util.concurrent.ConcurrentHashMap) 
+f:-1477893728 (java.util.concurrent.ConcurrentHashMap) 
+e:-1496618216 (java.util.concurrent.ConcurrentHashMap) 
+c:-1496618520 (java.util.concurrent.ConcurrentHashMap) 
+d:-1496618360 (java.util.concurrent.ConcurrentHashMap) 
+d:30 
+c:0 
+d:1 
+e:3 
+c:3 
+e:0 
+f:30 
+b:1 
+g:0 
+b:30 
+h:0 
+a:1 
+i:1 
+a:3 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481413960 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1492087872 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481413960 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1482671928 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488659608 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1482671928 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481091016 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1483710536 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481091016 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1487526192 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488368640 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1487526192 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1481074976 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1489194360 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1481074976 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483265256 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1491758896 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483265256 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1487533384 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1489245872 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1487533384 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1479157776 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1498404296 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1479157776 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1483133864 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1497105752 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1483133864 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1487540392 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1488838168 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1487540392 (null) 
+a:0 
+———————————————— 
+a:-1494348920 (com.tencent.mobileqq.app.FriendsManager) 
+a:-1477953120 (null) 
+a:-1494705648 (com.tencent.mobileqq.olympic.OlympicManager) 
+a:-1487931088 (com.tencent.mobileqq.olympic.OlympicTorchManager) 
+a:-1493501928 (com.tencent.mobileqq.richstatus.StatusManager) 
+a:0 
+a:-1489230560 (peu) 
+a:-1498738288 (null) 
+a:0 (null) 
+a:-1487971936 (null) 
+a:-1498355888 (null) 
+a:-1477953120 (null) 
+a:0 

@@ -1,0 +1,170 @@
+———————————————— 
+group_name:0 (null) 
+datetime:0 
+group_id:0 
+group_friend_count:0 
+group_online_friend_count:0 
+seqid:0 
+sqqOnLine_count:0 
+_id:-1 
+_status:1000 
+———————————————— 
+group_name:-1490860536 (高中11班17班19班) 
+datetime:1489632487476 
+group_id:14 
+group_friend_count:61 
+group_online_friend_count:36 
+seqid:11 
+sqqOnLine_count:0 
+_id:24 
+_status:1001 
+———————————————— 
+group_name:-1490861072 (电子设计) 
+datetime:1489632487476 
+group_id:10 
+group_friend_count:6 
+group_online_friend_count:6 
+seqid:8 
+sqqOnLine_count:0 
+_id:21 
+_status:1001 
+———————————————— 
+group_name:-1490861240 (物理竞赛) 
+datetime:1489632487476 
+group_id:6 
+group_friend_count:8 
+group_online_friend_count:5 
+seqid:7 
+sqqOnLine_count:0 
+_id:18 
+_status:1001 
+———————————————— 
+group_name:-1490861408 (学长学姐) 
+datetime:1489632487476 
+group_id:12 
+group_friend_count:9 
+group_online_friend_count:5 
+seqid:6 
+sqqOnLine_count:0 
+_id:22 
+_status:1001 
+———————————————— 
+group_name:-1490861576 (学弟学妹) 
+datetime:1489632487476 
+group_id:7 
+group_friend_count:20 
+group_online_friend_count:10 
+seqid:5 
+sqqOnLine_count:0 
+_id:19 
+_status:1001 
+———————————————— 
+group_name:-1490861744 (东南大学) 
+datetime:1489632487476 
+group_id:1 
+group_friend_count:28 
+group_online_friend_count:25 
+seqid:4 
+sqqOnLine_count:0 
+_id:14 
+_status:1001 
+———————————————— 
+group_name:-1490861912 (通信工程) 
+datetime:1489632487476 
+group_id:4 
+group_friend_count:64 
+group_online_friend_count:39 
+seqid:3 
+sqqOnLine_count:0 
+_id:16 
+_status:1001 
+———————————————— 
+group_name:-1490862080 (兄弟姐妹) 
+datetime:1489632487476 
+group_id:2 
+group_friend_count:9 
+group_online_friend_count:6 
+seqid:2 
+sqqOnLine_count:0 
+_id:15 
+_status:1001 
+———————————————— 
+group_name:-1490862248 (高中同学) 
+datetime:1489632487476 
+group_id:5 
+group_friend_count:11 
+group_online_friend_count:5 
+seqid:1 
+sqqOnLine_count:0 
+_id:17 
+_status:1001 
+———————————————— 
+group_name:-1490862504 (我的好友) 
+datetime:1489632487476 
+group_id:0 
+group_friend_count:17 
+group_online_friend_count:10 
+seqid:0 
+sqqOnLine_count:0 
+_id:13 
+_status:1001 
+———————————————— 
+group_name:-1495180504 (我的设备) 
+datetime:0 
+group_id:1001 
+group_friend_count:1 
+group_online_friend_count:1 
+seqid:0 
+sqqOnLine_count:0 
+_id:-1 
+_status:1000 
+———————————————— 
+group_name:-1495142480 (手机通讯录) 
+datetime:0 
+group_id:1002 
+group_friend_count:1 
+group_online_friend_count:1 
+seqid:0 
+sqqOnLine_count:0 
+_id:-1 
+_status:1000 
+———————————————— 
+group_name:-1490860904 (老师) 
+datetime:1489632487476 
+group_id:13 
+group_friend_count:5 
+group_online_friend_count:4 
+seqid:9 
+sqqOnLine_count:0 
+_id:23 
+_status:1001 
+———————————————— 
+group_name:-1490860736 (初中同学) 
+datetime:1489632487476 
+group_id:8 
+group_friend_count:15 
+group_online_friend_count:11 
+seqid:10 
+sqqOnLine_count:0 
+_id:20 
+_status:1001 
+———————————————— 
+group_name:-1498191448 (常用群聊) 
+datetime:0 
+group_id:1005 
+group_friend_count:1 
+group_online_friend_count:1 
+seqid:0 
+sqqOnLine_count:0 
+_id:-1 
+_status:1000 
+———————————————— 
+group_name:-1498187992 (特别关心) 
+datetime:0 
+group_id:1004 
+group_friend_count:1 
+group_online_friend_count:1 
+seqid:0 
+sqqOnLine_count:0 
+_id:-1 
+_status:1000 

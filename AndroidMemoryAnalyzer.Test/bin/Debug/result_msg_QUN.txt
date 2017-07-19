@@ -1,0 +1,99 @@
+———————————————— 
+com.tencent.mobileqq.text.QQText
+f:-1466351200 (学办-孙威: 【宣讲信息】华为无线研究部面向2018/2019届毕业生宣讲
+http://radio.seu.edu.cn/xueban/info/11578) 
+a:0 (null) 
+a:-1466002960 ((others)) 
+a:-1466002880 ((others)) 
+e:-1466216640 (学办-孙威: 【宣讲信息】华为无线研究部面向2018/2019届毕业生宣讲
+http://radio.seu.edu.cn/xueban/info/11578) 
+b:-1 
+a:0 
+———————————————— 
+com.tencent.mobileqq.text.QQText
+f:-1466351200 (学办-孙威: 【宣讲信息】华为无线研究部面向2018/2019届毕业生宣讲
+http://radio.seu.edu.cn/xueban/info/11578) 
+a:0 (null) 
+a:-1466002960 ((others)) 
+a:-1466002880 ((others)) 
+e:-1466216640 (学办-孙威: 【宣讲信息】华为无线研究部面向2018/2019届毕业生宣讲
+http://radio.seu.edu.cn/xueban/info/11578) 
+b:-1 
+a:0 
+———————————————— 
+com.tencent.mobileqq.app.message.QQMessageFacade$Message
+actMsgContentValue:0 (null) 
+action:0 (null) 
+pttUrl:0 (null) 
+nickName:-1485812296 (学办-孙威) 
+emoRecentMsg:-1464893528 (null) 
+latestNormalMsgString:0 (null) 
+isInWhisper:-1508333808 (java.lang.Boolean) 
+shareAppID:0 
+fileSize:-1 
+fileType:-1 
+isCacheValid:1 
+counter:0 
+bizType:-1 
+hasReply:1 
+unReadNum:0 
+atInfoList:0 (null) 
+senderuin:-1472708984 (   18461686) 
+selfuin:-1499815968 (u_641093277_t) 
+extStr:0 (null) 
+msgData:0 (null) 
+frienduin:-1472708912 (  158759895) 
+msg2:0 (null) 
+msg:-1472709256 (【宣讲信息】华为无线研究部面向2018/2019届毕业生宣讲
+http://radio.seu.edu.cn/xueban/info/11578) 
+mMessageInfo:0 (null) 
+mExJsonObject:0 (null) 
+isValid:1 
+vipBubbleID:11 
+uniseq:6410517184929274492 
+time:1492560877 
+shmsgseq:28159 
+msgseq:1492560877 
+msgUid:-789155178 
+msgId:0 
+isOpenTroopMessage:0 
+isMultiMsg:0 
+isBlessMsg:0 
+extraflag:0 
+isReMultiMsg:0 
+longMsgIndex:0 
+longMsgId:0 
+msgtype:-1000 
+extLong:0 
+sendFailCode:0 
+extInt:65536 
+longMsgCount:1 
+istroop:1 
+issend:0 
+versionCode:3 
+vipBubbleDiyTextId:0 
+isread:1 
+_id:48 
+_status:1002 
+———————————————— 
+com.tencent.mobileqq.text.QQText
+f:-1475981256 (学办-孙威: 【宣讲信息】华为无线研究部面向2018/2019届毕业生宣讲
+http://radio.seu.edu.cn/xueban/info/11578) 
+a:0 (null) 
+a:-1472138496 ((others)) 
+a:-1494152096 ((others)) 
+e:-1475973800 (学办-孙威: 【宣讲信息】华为无线研究部面向2018/2019届毕业生宣讲
+http://radio.seu.edu.cn/xueban/info/11578) 
+b:-1 
+a:2 
+———————————————— 
+com.tencent.mobileqq.text.QQText
+f:-1475981256 (学办-孙威: 【宣讲信息】华为无线研究部面向2018/2019届毕业生宣讲
+http://radio.seu.edu.cn/xueban/info/11578) 
+a:0 (null) 
+a:-1472138496 ((others)) 
+a:-1494152096 ((others)) 
+e:-1475973800 (学办-孙威: 【宣讲信息】华为无线研究部面向2018/2019届毕业生宣讲
+http://radio.seu.edu.cn/xueban/info/11578) 
+b:-1 
+a:2 

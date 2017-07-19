@@ -1,0 +1,24 @@
+﻿<UserControl x:Class="Demo.WPF.Pages.QQ.MainPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             DataContext="{Binding QQViewModel}"
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0,-100,0,0">
+            <TextBlock Text="选择文件:" Margin="0,0,0,10"/>
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,100">
+                <TextBox x:Name="tb_fileAddress" Text="{Binding FilePath,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Width="300" Margin="0,0,10,0"/>
+                <Button Content="浏览..." Click="Button_Click"/>
+            </StackPanel>
+            <TextBlock Text="{Binding State}" HorizontalAlignment="Center" Margin="0,0,0,10"/>
+
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10" HorizontalAlignment="Center">
+
+                <Button Content="开始解析"  Command="{Binding AnalyzeFile}"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E81D42F4-321A-492A-8333-49EA0A003305}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AndroidMemoryAnalyzer.HeapAnalyzer</RootNamespace>
+    <AssemblyName>AndroidMemoryAnalyzer.HeapAnalyzer</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Helper\ByteConverter.cs" />
+    <Compile Include="Helper\BigEndianExtension.cs" />
+    <Compile Include="HeapAnalyzer\HeapDeserializer.cs" />
+    <Compile Include="HeapAnalyzer\HeapFileAnalyzer.cs" />
+    <Compile Include="HeapAnalyzer\HeapStructs\DumpObjects\DumpClassObject.cs" />
+    <Compile Include="HeapAnalyzer\HeapStructs\DumpObjects\DumpObjectArray.cs" />
+    <Compile Include="HeapAnalyzer\HeapStructs\DumpObjects\DumpObjectInstance.cs" />
+    <Compile Include="HeapAnalyzer\HeapStructs\DumpObjects\DumpPrimitiveArray.cs" />
+    <Compile Include="HeapAnalyzer\HeapStructs\DumpObjects\DumpPrimitiveArrayNoData.cs" />
+    <Compile Include="HeapAnalyzer\HeapStructs\DumpObjects\HeapDumpObject.cs" />
+    <Compile Include="HeapAnalyzer\HeapStructs\DumpObjects\HeapInfo.cs" />
+    <Compile Include="HeapAnalyzer\HeapStructs\DumpObjects\HeapObjectDeserializer.cs" />
+    <Compile Include="HeapAnalyzer\HeapStructs\HeapClass.cs" />
+    <Compile Include="HeapAnalyzer\HeapStructs\HeapDumpSegment.cs" />
+    <Compile Include="HeapAnalyzer\HeapStructs\HeapHeader.cs" />
+    <Compile Include="HeapAnalyzer\HeapStructs\HeapRawData.cs" />
+    <Compile Include="HeapAnalyzer\HeapStructs\HeapStack.cs" />
+    <Compile Include="HeapAnalyzer\HeapStructs\HeapString.cs" />
+    <Compile Include="HeapAnalyzer\HeapStructs\PrimitiveType.cs" />
+    <Compile Include="HeapAnalyzer\ObjectInfos\ClassObjectInfo.cs" />
+    <Compile Include="HeapAnalyzer\ObjectInfos\ObjectArrayInfo.cs" />
+    <Compile Include="HeapAnalyzer\ObjectInfos\ObjectInstanceInfo.cs" />
+    <Compile Include="HeapAnalyzer\ObjectInfos\PrimitiveArrayInfo.cs" />
+    <Compile Include="HeapAnalyzer\ObjectInfos\PrimitiveObjectInfo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

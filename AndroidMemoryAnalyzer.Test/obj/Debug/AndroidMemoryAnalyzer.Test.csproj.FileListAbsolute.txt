@@ -1,0 +1,10 @@
+F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer.Test\bin\Debug\AndroidMemoryAnalyzer.Test.exe.config
+F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer.Test\obj\Debug\AndroidMemoryAnalyzer.Test.csprojResolveAssemblyReference.cache
+F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer.Test\bin\Debug\AndroidMemoryAnalyzer.Test.exe
+F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer.Test\bin\Debug\AndroidMemoryAnalyzer.Test.pdb
+F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer.Test\bin\Debug\AndroidMemoryAnalyzer.HeapAnalyzer.dll
+F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer.Test\bin\Debug\AndroidMemoryAnalyzer.HeapQuerier.dll
+F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer.Test\bin\Debug\AndroidMemoryAnalyzer.HeapAnalyzer.pdb
+F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer.Test\bin\Debug\AndroidMemoryAnalyzer.HeapQuerier.pdb
+F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer.Test\obj\Debug\AndroidMemoryAnalyzer.Test.exe
+F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer.Test\obj\Debug\AndroidMemoryAnalyzer.Test.pdb
