@@ -25,6 +25,18 @@ namespace Demo.WPF
             InitializeComponent();
 
             this.DataContext = MainViewModel.GetInstance();
+            var type=MainViewModel.GetInstance().startType;
+            switch(type)
+            {
+                case "com.tencent.mobileqq":  
+                    tabControl.SelectTabItem(0);
+                    break;
+                case "com.tencent.mm":
+                    tabControl.SelectTabItem(2);
+                    break;
+                default:
+                    break;
+            }
         }
     }
 }

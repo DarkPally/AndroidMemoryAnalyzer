@@ -1,0 +1,6 @@
+F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer\bin\Debug\AndroidMemoryAnalyzer.exe.config
+F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer\bin\Debug\AndroidMemoryAnalyzer.exe
+F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer\bin\Debug\AndroidMemoryAnalyzer.pdb
+F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer\obj\Debug\AndroidMemoryAnalyzer.exe
+F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer\obj\Debug\AndroidMemoryAnalyzer.pdb
+F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer\obj\Debug\AndroidMemoryAnalyzer.csprojResolveAssemblyReference.cache

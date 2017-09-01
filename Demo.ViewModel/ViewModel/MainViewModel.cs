@@ -19,5 +19,26 @@ namespace Demo.Library.ViewModel
             MicroMsgViewModel = new MicroMsgViewModel();
             QQViewModel = new QQViewModel();
         }
+
+        public static void InitializeWithParams(string type,string path)
+        {
+            switch (type)
+            {
+                case "com.tencent.mobileqq":                    
+                    instance.QQViewModel.FilePath = path;
+                    instance.QQViewModel.ExcuteAnalyzeFile();
+                    instance.startType = type;
+                    break;
+                case "com.tencent.mm":
+                    instance.MicroMsgViewModel.FilePath = path;
+                    instance.MicroMsgViewModel.ExcuteAnalyzeFile();
+                    instance.startType = type;
+                    break;  
+                default:
+                    break;
+            }
+        }
+
+        public string startType=null;
     }
 }

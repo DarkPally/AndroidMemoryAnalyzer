@@ -19,6 +19,14 @@ namespace Demo.Library.MicroMsg
             return str_value;
         }
 
+        public static string GetSpannableString(ObjectInstanceInfo info)
+        {
+            if (info == null) return null;
+            var tt1 = ((info as ObjectInstanceInfo).InstanceFields[0] as ReferenceObjectInfo);
+            if (tt1.ReferenceTarget == null) return null;
+            var str_value = GetJavaString(tt1.ReferenceTarget as ObjectInstanceInfo);
+            return str_value;
+        }
         public static List<MicroMsgFriend> GetFriends(HeapFileAnalyzer analyser)
         {
             List<MicroMsgFriend> result = new List<MicroMsgFriend>();
@@ -57,6 +65,37 @@ namespace Demo.Library.MicroMsg
                     }
                 }
                 result.Add(friend);
+            }
+            return result;
+        }
+
+        public static List<MicroMsgMessage> GetMessages(HeapFileAnalyzer analyser)
+        {
+            List<MicroMsgMessage> result = new List<MicroMsgMessage>();
+            var t = analyser.ObjectInstanceInfos.Where(c => c.ClassName == "com.tencent.mm.ui.conversation.b$d").ToList();
+
+            foreach (var it in t)
+            {
+                var msg = new MicroMsgMessage();
+                foreach (var it2 in it.InstanceFields)
+                {
+                    switch (it2.Name)
+                    {
+                        case "nickName":
+                            msg.NickName = GetSpannableString((it2 as ReferenceObjectInfo).ReferenceTarget as ObjectInstanceInfo);
+                            break;
+                        case "uoB":
+                            msg.Message = GetSpannableString((it2 as ReferenceObjectInfo).ReferenceTarget as ObjectInstanceInfo);
+                            break;
+                        case "uoA":
+                            msg.TimeText = GetJavaString((it2 as ReferenceObjectInfo).ReferenceTarget as ObjectInstanceInfo);
+                            break;
+                        
+                        default:
+                            break;
+                    }
+                }
+                result.Add(msg);
             }
             return result;
         }

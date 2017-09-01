@@ -10,7 +10,7 @@
     >
 
     <Grid>
-        <dx:DXTabControl>
+        <dx:DXTabControl x:Name="tabControl">
             <dx:DXTabItem Header="QQ好友">
 
                 <Grid  Background="Transparent">
@@ -27,6 +27,13 @@
 
                 <Grid  Background="Transparent">
                     <mm:Friends />
+                </Grid>
+            </dx:DXTabItem>
+
+            <dx:DXTabItem Header="微信消息">
+
+                <Grid  Background="Transparent">
+                    <mm:Messages />
                 </Grid>
             </dx:DXTabItem>
         </dx:DXTabControl>

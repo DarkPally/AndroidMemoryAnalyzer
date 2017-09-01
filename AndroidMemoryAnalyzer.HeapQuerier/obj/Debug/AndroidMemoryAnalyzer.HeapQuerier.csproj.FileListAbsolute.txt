@@ -1,4 +1,5 @@
 F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer.HeapQuerier\bin\Debug\AndroidMemoryAnalyzer.HeapQuerier.dll
 F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer.HeapQuerier\bin\Debug\AndroidMemoryAnalyzer.HeapQuerier.pdb
+F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer.HeapQuerier\obj\Debug\AndroidMemoryAnalyzer.HeapQuerier.csprojResolveAssemblyReference.cache
 F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer.HeapQuerier\obj\Debug\AndroidMemoryAnalyzer.HeapQuerier.dll
 F:\Project\vs_project\AndroidMemoryAnalyzer\AndroidMemoryAnalyzer.HeapQuerier\obj\Debug\AndroidMemoryAnalyzer.HeapQuerier.pdb

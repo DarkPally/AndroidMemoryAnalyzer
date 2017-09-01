@@ -49,6 +49,7 @@
   <ItemGroup>
     <Compile Include="MicroMsg\MicroMsgFriend.cs" />
     <Compile Include="MicroMsg\MicroMsgHelper.cs" />
+    <Compile Include="MicroMsg\MicroMsgMessage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="QQ\Model\QQFriend.cs" />
     <Compile Include="QQ\Model\QQMessage.cs" />

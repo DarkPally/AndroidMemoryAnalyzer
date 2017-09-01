@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<SearchRootItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SearchParam SourceType="Class" Limit="10" Offset="0">
+    <Filters>
+      <Filter PropertyName="ClassName" Operator="contains" Value="LoginActivity" />
+    </Filters>
+    <TargetFormats>
+      <TargetFormat PropertyName="ClassObjectID" CustomName="cid" ValueType="int" IsOutput="false" />
+    </TargetFormats>
+  </SearchParam>
+  <NextSearchItems>
+    <SearchParam SourceType="Object" Limit="1" Offset="0">
+      <Filters>
+        <Filter PropertyName="ClassObjectID" Operator="==" Value="{Binding cid}" />
+      </Filters>
+      <TargetFormats>
+        <TargetFormat PropertyName="className" ValueType="string" IsOutput="true" />
+      </TargetFormats>
+    </SearchParam>
+  </NextSearchItems>
+</SearchRootItem>

@@ -86,7 +86,7 @@ namespace AndroidMemoryAnalyzer.HeapAnalyzer
             if (ClassObject is string)
             {
                 InstanceFields = new List<PrimitiveObjectInfo>();
-                if(ClassName=="java.lang.String")
+                if (ClassName == "java.lang.String" )
                 {
                     int templength = 0;
 
@@ -101,6 +101,20 @@ namespace AndroidMemoryAnalyzer.HeapAnalyzer
                 }
 
             };
+
+            if (ClassName == "android.text.SpannableString" && InstanceFields.Count==0)
+            {
+                int templength = 0;
+
+                var value = PrimitiveTypeHelper.GetPrimitiveValue(PrimitiveType.HPROF_BASIC_OBJECT, org.InstanceFieldData, ref templength);
+                InstanceFields.Add(new ReferenceObjectInfo()
+                {
+                    Name = "data",
+                    NameID = 0,
+                    Type = PrimitiveType.HPROF_BASIC_OBJECT,
+                    Value = value,
+                });
+            }
             #endregion
         }
     }

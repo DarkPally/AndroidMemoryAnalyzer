@@ -19,7 +19,6 @@ namespace AndroidMemoryAnalyzer.HeapAnalyzer
         {
             ClassObjectID = org.ClassObjectID;
             ClassName = analyzer.ClassNames[org.ClassObjectID];
-
             SuperClassObjectID = org.SuperClassObjectID;
             SuperClassName = analyzer.ClassNames.ContainsKey(SuperClassObjectID) ?
                 analyzer.ClassNames[org.SuperClassObjectID] :

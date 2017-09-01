@@ -28,6 +28,20 @@ namespace Demo.Library.ViewModel
                 }
             }
         }
+
+        List<MicroMsgMessage> msgs;
+        public List<MicroMsgMessage> Msgs
+        {
+            get { return msgs; }
+            set
+            {
+                if (msgs != value)
+                {
+                    msgs = value;
+                    RaisePropertyChanged("Msgs");
+                }
+            }
+        }
         string state="准备就绪";
         public string State {
             get{return state;}
@@ -68,7 +82,7 @@ namespace Demo.Library.ViewModel
                         x.DoWork();
 
                         Friends = MicroMsgHelper.GetFriends(x);
-
+                        Msgs = MicroMsgHelper.GetMessages(x);
                         State = "解析完成！";
                     }
                     catch

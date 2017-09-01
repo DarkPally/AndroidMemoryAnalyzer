@@ -14,6 +14,7 @@ namespace AndroidMemoryAnalyzer
     {
         static void Main(string[] args)
         {
+            /*
             //string path = @"F:\工作项目\内存提取\test\com.tencent.mobileqq.hprof";
             //string path = @"F:\工作项目\内存提取\test\qq进程内存测试分析\联系人界面\com_tencent_mobileqq.hprof";
             string path = @"F:\工作项目\内存提取\test\qq进程内存测试分析\消息界面\com.tencent.mobileqq.hprof";
@@ -28,7 +29,9 @@ namespace AndroidMemoryAnalyzer
             //lookForMessageHost(x);
             //lookForMessage(x);
            // PrintGroupFriend(x);
-            Console.ReadLine();
+             */
+            MircoMessage.DoWork();
+     //       Console.ReadLine();
         }
         static void PrintMicroMsgFriends(HeapFileAnalyzer analyser)
         {
