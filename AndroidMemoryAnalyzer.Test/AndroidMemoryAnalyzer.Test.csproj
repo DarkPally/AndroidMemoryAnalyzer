@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AnalysisManager\AnalysisManager.cs" />
+    <Compile Include="Tests\Mail189.cs" />
     <Compile Include="Tests\Mail163.cs" />
     <Compile Include="Tests\MircoMessage.cs" />
     <Compile Include="Program.cs" />

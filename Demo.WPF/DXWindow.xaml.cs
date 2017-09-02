@@ -36,7 +36,10 @@ namespace Demo.WPF
                     break;
                 case "com.netease.mobimail":
                     tabControl.SelectTabItem(4);
-                    break; 
+                    break;
+                case "com.corp21cn.mail189":
+                     tabControl.SelectTabItem(5);
+                    break;
                 default:
                     break;
             }
