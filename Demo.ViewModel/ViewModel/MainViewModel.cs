@@ -10,6 +10,7 @@ namespace Demo.Library.ViewModel
     {
         public QQViewModel QQViewModel { get; set; }
         public MicroMsgViewModel MicroMsgViewModel { get; set; }
+        public Mail163ViewModel Mail163ViewModel { get; set; }
         
 
         private static readonly MainViewModel instance = new MainViewModel();
@@ -18,6 +19,7 @@ namespace Demo.Library.ViewModel
         {
             MicroMsgViewModel = new MicroMsgViewModel();
             QQViewModel = new QQViewModel();
+            Mail163ViewModel = new Mail163ViewModel();
         }
 
         public static void InitializeWithParams(string type,string path)
@@ -33,7 +35,12 @@ namespace Demo.Library.ViewModel
                     instance.MicroMsgViewModel.FilePath = path;
                     instance.MicroMsgViewModel.ExcuteAnalyzeFile();
                     instance.startType = type;
-                    break;  
+                    break;
+                case "com.netease.mobimail":
+                    instance.Mail163ViewModel.FilePath = path;
+                    instance.Mail163ViewModel.ExcuteAnalyzeFile();
+                    instance.startType = type;
+                    break; 
                 default:
                     break;
             }

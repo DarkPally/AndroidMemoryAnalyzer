@@ -34,6 +34,9 @@ namespace Demo.WPF
                 case "com.tencent.mm":
                     tabControl.SelectTabItem(2);
                     break;
+                case "com.netease.mobimail":
+                    tabControl.SelectTabItem(4);
+                    break; 
                 default:
                     break;
             }

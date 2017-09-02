@@ -5,6 +5,8 @@
     xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
     xmlns:qq="clr-namespace:Demo.WPF.Pages.QQ"
     xmlns:mm="clr-namespace:Demo.WPF.Pages.MicroMsg"
+    xmlns:m163="clr-namespace:Demo.WPF.Pages.Mail163"
+    
     Title="内存取证演示程序" Height="600" Width="800"
     dx:ThemeManager.ThemeName="Office2013LightGray"
     >
@@ -36,6 +38,14 @@
                     <mm:Messages />
                 </Grid>
             </dx:DXTabItem>
+
+            <dx:DXTabItem Header="163邮箱">
+                <Grid  Background="Transparent">
+                    <m163:Messages />
+                </Grid>
+            </dx:DXTabItem>
+
+            
         </dx:DXTabControl>
 
     </Grid>
