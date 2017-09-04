@@ -12,7 +12,7 @@ namespace Demo.Library.ViewModel
         public MicroMsgViewModel MicroMsgViewModel { get; set; }
         public Mail163ViewModel Mail163ViewModel { get; set; }
         public Mail189ViewModel Mail189ViewModel { get; set; }
-        
+        public ECloudViewModel ECloudViewModel { get; set; }
 
         private static readonly MainViewModel instance = new MainViewModel();
         public static MainViewModel GetInstance() { return instance; }
@@ -22,6 +22,7 @@ namespace Demo.Library.ViewModel
             QQViewModel = new QQViewModel();
             Mail163ViewModel = new Mail163ViewModel();
             Mail189ViewModel = new Mail189ViewModel();
+            ECloudViewModel = new ECloudViewModel();
         }
 
         public static void InitializeWithParams(string type,string path)
@@ -46,6 +47,11 @@ namespace Demo.Library.ViewModel
                 case "com.corp21cn.mail189":
                     instance.Mail189ViewModel.FilePath = path;
                     instance.Mail189ViewModel.ExcuteAnalyzeFile();
+                    instance.startType = type;
+                    break;
+                case "com.cn21.ecloud":
+                    instance.ECloudViewModel.FilePath = path;
+                    instance.ECloudViewModel.ExcuteAnalyzeFile();
                     instance.startType = type;
                     break; 
                 default:

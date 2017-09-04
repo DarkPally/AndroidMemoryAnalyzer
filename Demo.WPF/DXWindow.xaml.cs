@@ -40,6 +40,9 @@ namespace Demo.WPF
                 case "com.corp21cn.mail189":
                      tabControl.SelectTabItem(5);
                     break;
+                case "com.cn21.ecloud":
+                    tabControl.SelectTabItem(6);
+                    break;
                 default:
                     break;
             }

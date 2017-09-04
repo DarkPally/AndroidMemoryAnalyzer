@@ -47,6 +47,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ECloud\ECloudHelper.cs" />
+    <Compile Include="ECloud\ECloudMessage.cs" />
     <Compile Include="Mail189\Mail189Helper.cs" />
     <Compile Include="Mail189\Mail189Message.cs" />
     <Compile Include="Mail163\Mail163Helper.cs" />
@@ -59,6 +61,7 @@
     <Compile Include="QQ\Model\QQMessage.cs" />
     <Compile Include="QQ\Model\QQGroup.cs" />
     <Compile Include="QQ\QQHelper.cs" />
+    <Compile Include="ViewModel\ECloudViewModel.cs" />
     <Compile Include="ViewModel\Mail189ViewModel.cs" />
     <Compile Include="ViewModel\Mail163ViewModel.cs" />
     <Compile Include="ViewModel\MicroMsgViewModel.cs" />

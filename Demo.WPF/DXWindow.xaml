@@ -7,6 +7,7 @@
     xmlns:mm="clr-namespace:Demo.WPF.Pages.MicroMsg"
     xmlns:m163="clr-namespace:Demo.WPF.Pages.Mail163"
     xmlns:m189="clr-namespace:Demo.WPF.Pages.Mail189"
+    xmlns:ecloud="clr-namespace:Demo.WPF.Pages.ECloud"
     Title="内存取证演示程序" Height="600" Width="800"
     dx:ThemeManager.ThemeName="Office2013LightGray"
     >
@@ -47,6 +48,11 @@
             <dx:DXTabItem Header="189邮箱">
                 <Grid  Background="Transparent">
                     <m189:Messages />
+                </Grid>
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="天翼云盘">
+                <Grid  Background="Transparent">
+                    <ecloud:Messages />
                 </Grid>
             </dx:DXTabItem>
             

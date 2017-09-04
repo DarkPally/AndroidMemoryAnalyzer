@@ -112,6 +112,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="Pages\ECloud\Messages.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Pages\Mail189\Messages.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -146,6 +150,9 @@
     </Page>
     <Compile Include="DXWindow.xaml.cs">
       <DependentUpon>DXWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ECloud\Messages.xaml.cs">
+      <DependentUpon>Messages.xaml</DependentUpon>
     </Compile>
     <Compile Include="Pages\Mail189\Messages.xaml.cs">
       <DependentUpon>Messages.xaml</DependentUpon>
