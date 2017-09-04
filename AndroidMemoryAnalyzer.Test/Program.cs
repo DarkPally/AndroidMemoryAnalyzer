@@ -30,7 +30,7 @@ namespace AndroidMemoryAnalyzer
             //lookForMessage(x);
            // PrintGroupFriend(x);
              */
-            ECloud.DoWork();
+            Browser360.DoWork();
      //       Console.ReadLine();
         }
         static void PrintMicroMsgFriends(HeapFileAnalyzer analyser)

@@ -43,6 +43,9 @@ namespace Demo.WPF
                 case "com.cn21.ecloud":
                     tabControl.SelectTabItem(6);
                     break;
+                case "com.qihoo.browser":
+                    tabControl.SelectTabItem(7);
+                    break;
                 default:
                     break;
             }

@@ -13,6 +13,7 @@ namespace Demo.Library.ViewModel
         public Mail163ViewModel Mail163ViewModel { get; set; }
         public Mail189ViewModel Mail189ViewModel { get; set; }
         public ECloudViewModel ECloudViewModel { get; set; }
+        public Browser360ViewModel Browser360ViewModel { get; set; }
 
         private static readonly MainViewModel instance = new MainViewModel();
         public static MainViewModel GetInstance() { return instance; }
@@ -23,6 +24,7 @@ namespace Demo.Library.ViewModel
             Mail163ViewModel = new Mail163ViewModel();
             Mail189ViewModel = new Mail189ViewModel();
             ECloudViewModel = new ECloudViewModel();
+            Browser360ViewModel = new Browser360ViewModel();
         }
 
         public static void InitializeWithParams(string type,string path)
@@ -52,6 +54,11 @@ namespace Demo.Library.ViewModel
                 case "com.cn21.ecloud":
                     instance.ECloudViewModel.FilePath = path;
                     instance.ECloudViewModel.ExcuteAnalyzeFile();
+                    instance.startType = type;
+                    break;
+                case "com.qihoo.browser":
+                    instance.Browser360ViewModel.FilePath = path;
+                    instance.Browser360ViewModel.ExcuteAnalyzeFile();
                     instance.startType = type;
                     break; 
                 default:
