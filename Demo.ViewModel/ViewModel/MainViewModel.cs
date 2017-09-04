@@ -14,6 +14,7 @@ namespace Demo.Library.ViewModel
         public Mail189ViewModel Mail189ViewModel { get; set; }
         public ECloudViewModel ECloudViewModel { get; set; }
         public Browser360ViewModel Browser360ViewModel { get; set; }
+        public MicroMsgTradeViewModel MicroMsgTradeViewModel { get; set; }
 
         private static readonly MainViewModel instance = new MainViewModel();
         public static MainViewModel GetInstance() { return instance; }
@@ -25,6 +26,7 @@ namespace Demo.Library.ViewModel
             Mail189ViewModel = new Mail189ViewModel();
             ECloudViewModel = new ECloudViewModel();
             Browser360ViewModel = new Browser360ViewModel();
+            MicroMsgTradeViewModel = new MicroMsgTradeViewModel();
         }
 
         public static void InitializeWithParams(string type,string path)
@@ -59,6 +61,11 @@ namespace Demo.Library.ViewModel
                 case "com.qihoo.browser":
                     instance.Browser360ViewModel.FilePath = path;
                     instance.Browser360ViewModel.ExcuteAnalyzeFile();
+                    instance.startType = type;
+                    break;
+                case "com.tencent.mmtools":
+                    instance.MicroMsgTradeViewModel.FilePath = path;
+                    instance.MicroMsgTradeViewModel.ExcuteAnalyzeFile();
                     instance.startType = type;
                     break; 
                 default:

@@ -5,6 +5,8 @@
     xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
     xmlns:qq="clr-namespace:Demo.WPF.Pages.QQ"
     xmlns:mm="clr-namespace:Demo.WPF.Pages.MicroMsg"
+    xmlns:mmt="clr-namespace:Demo.WPF.Pages.MicroMsgTrade"
+    
     xmlns:m163="clr-namespace:Demo.WPF.Pages.Mail163"
     xmlns:m189="clr-namespace:Demo.WPF.Pages.Mail189"
     xmlns:ecloud="clr-namespace:Demo.WPF.Pages.ECloud"
@@ -41,7 +43,13 @@
                     <mm:Messages />
                 </Grid>
             </dx:DXTabItem>
+            <dx:DXTabItem Header="微信支付">
 
+                <Grid  Background="Transparent">
+                    <mmt:Messages />
+                </Grid>
+            </dx:DXTabItem>
+            
             <dx:DXTabItem Header="163邮箱">
                 <Grid  Background="Transparent">
                     <m163:Messages />

@@ -1,0 +1,823 @@
+———————————————— 
+android.webkit.WebViewCore$AutoFillData
+mPreview:-1508312344 ((null)) 
+mQueryId:-1 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496767264 (android.graphics.Point) 
+mViewSize:-1496767240 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187232360 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496960640 (android.graphics.Point) 
+mViewSize:-1496960616 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1188190200 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1497050160 (android.graphics.Point) 
+mViewSize:-1497050136 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187232360 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1498042600 (android.graphics.Point) 
+mViewSize:-1498042576 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187350480 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496667808 (android.graphics.Point) 
+mViewSize:-1496667728 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1188236512 
+———————————————— 
+android.webkit.WebViewCore$WebKitHitTest
+mAltDisplayString:0 (null) 
+mAnchorText:0 (null) 
+mTouchRects:-1496807480 ((others)) 
+mEnclosingParentRects:-1496668080 ((others)) 
+mTitle:0 (null) 
+mLinkUrl:0 (null) 
+mIntentUrl:0 (null) 
+mImageUrl:0 (null) 
+mHitTestY:168 
+mHitTestX:181 
+mHitTestSlop:16 
+mHitTestMovedMouse:1 
+mTapHighlightColor:1714664933 
+mHasFocus:1 
+mEditable:0 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496668200 (android.graphics.Point) 
+mViewSize:-1496668176 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1190506096 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496741824 (android.graphics.Point) 
+mViewSize:-1496741800 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187232360 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1497049392 (android.graphics.Point) 
+mViewSize:-1497049368 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187634712 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1497049672 (android.graphics.Point) 
+mViewSize:-1497049648 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187232360 
+———————————————— 
+android.webkit.WebViewCore$GetUrlData
+mExtraHeaders:0 (null) 
+mUrl:-1499272120 (javascript:WeixinJSBridge._continueSetResult()) 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496789200 (android.graphics.Point) 
+mViewSize:-1496789176 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187634712 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496756688 (android.graphics.Point) 
+mViewSize:-1496756664 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187634712 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496962272 (android.graphics.Point) 
+mViewSize:-1496962248 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1188247384 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496779016 (android.graphics.Point) 
+mViewSize:-1496778992 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1188111848 
+———————————————— 
+android.webkit.WebViewCore
+mBrowserFrame:-1498489960 (android.webkit.BrowserFrame) 
+mCallbackProxy:-1497863888 (android.webkit.CallbackProxy) 
+m_skipDrawFlagLock:-1498926832 (java.lang.Object) 
+mContext:-1498478888 (com.tencent.mm.plugin.webview.ui.tools.WebViewUI) 
+mWebViewClassic:-1498702856 (android.webkit.WebViewClassic) 
+mSettings:-1499229600 (android.webkit.WebSettingsClassic) 
+mMockGeolocation:-1498212224 (android.webkit.MockGeolocation) 
+mDeviceMotionAndOrientationManager:-1498483680 (android.webkit.DeviceMotionAndOrientationManager) 
+mDeviceMotionService:0 (null) 
+mDeviceOrientationService:0 (null) 
+mLastDrawData:-1498039376 (android.webkit.WebViewCore$DrawData) 
+mJavascriptInterfaces:0 (null) 
+mEventHub:-1499132520 (android.webkit.WebViewCore$EventHub) 
+mInitialViewState:0 (null) 
+mHighMemoryUsageThresholdMb:384 
+mHighUsageDeltaMb:8 
+mFirstLayoutForNonStandardLoad:0 
+mIsRestored:0 
+mDrawIsScheduled:0 
+mDrawIsPaused:0 
+mLowMemoryUsageThresholdMb:256 
+mCurrentViewWidth:360 
+mNativeClass:-1192616304 
+mRestoredScale:0 
+mRestoredTextWrapScale:0 
+mRestoredX:0 
+mRestoredY:0 
+mCurrentViewScale:1073741824 
+mTextSelectionChangeReason:0 
+mViewportDensityDpi:-1 
+mViewportHeight:-1 
+mViewportInitialScale:200 
+mViewportMaximumScale:200 
+mViewportMinimumScale:200 
+mViewportUserScalable:0 
+mViewportWidth:0 
+mCurrentViewHeight:567 
+m_drawWasSkipped:0 
+m_skipDrawFlag:0 
+mChromeCanFocusDirection:0 
+———————————————— 
+android.webkit.WebViewCore$GetUrlData
+mExtraHeaders:0 (null) 
+mUrl:-1499272120 (javascript:WeixinJSBridge._continueSetResult()) 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1498039336 (android.graphics.Point) 
+mViewSize:-1498039312 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1188140752 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496757248 (android.graphics.Point) 
+mViewSize:-1496757224 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187634712 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1498041200 (android.graphics.Point) 
+mViewSize:-1498041176 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1188501536 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1498041288 (android.graphics.Point) 
+mViewSize:-1498041264 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1188021304 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496961200 (android.graphics.Point) 
+mViewSize:-1496961176 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1188190200 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496785736 (android.graphics.Point) 
+mViewSize:-1496785584 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1188151424 
+———————————————— 
+android.webkit.WebViewCore$WebKitHitTest
+mAltDisplayString:0 (null) 
+mAnchorText:0 (null) 
+mTouchRects:-1498953560 ((others)) 
+mEnclosingParentRects:-1498042856 ((others)) 
+mTitle:0 (null) 
+mLinkUrl:0 (null) 
+mIntentUrl:0 (null) 
+mImageUrl:0 (null) 
+mHitTestY:166 
+mHitTestX:253 
+mHitTestSlop:16 
+mHitTestMovedMouse:1 
+mTapHighlightColor:1714664933 
+mHasFocus:1 
+mEditable:0 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1498872944 (android.graphics.Point) 
+mViewSize:-1498872920 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187232360 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1498873224 (android.graphics.Point) 
+mViewSize:-1498873200 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187634712 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1497049008 (android.graphics.Point) 
+mViewSize:-1498874040 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187232360 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496758800 (android.graphics.Point) 
+mViewSize:-1496758776 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187232360 
+———————————————— 
+android.webkit.WebViewCore$GetUrlData
+mExtraHeaders:0 (null) 
+mUrl:-1499039840 (javascript:WeixinJSBridge._handleMessageFromWeixin({"__sha_key":"a4b38d67a80aa8b63976ca0e80182324b5108d07","__json_message":{"__params":{"err_msg":"setNavigationBarButtons:ok"},"__callback_id":"1003","__msg_type":"callback"}})) 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1497049952 (android.graphics.Point) 
+mViewSize:-1497049928 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187634712 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496717280 (android.graphics.Point) 
+mViewSize:-1496717256 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1188141000 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496786056 (android.graphics.Point) 
+mViewSize:-1496786032 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187904360 
+———————————————— 
+android.webkit.WebViewCore$GetUrlData
+mExtraHeaders:0 (null) 
+mUrl:-1497749400 (javascript:WeixinJSBridge._handleMessageFromWeixin({"__sha_key":"5310f47504e86fa7a4176ed91f1f86e031ff892a","__json_message":{"__params":{"err_msg":"disableBounceScroll:ok"},"__callback_id":"1004","__msg_type":"callback"}})) 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496995952 (android.graphics.Point) 
+mViewSize:-1496995928 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1186695920 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496996040 (android.graphics.Point) 
+mViewSize:-1496996016 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1188505808 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496618928 (android.graphics.Point) 
+mViewSize:-1496618904 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187634712 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496619328 (android.graphics.Point) 
+mViewSize:-1496619304 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187232360 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1498035688 (android.graphics.Point) 
+mViewSize:-1498035664 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187632280 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1498872664 (android.graphics.Point) 
+mViewSize:-1496789736 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187634712 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496777096 (android.graphics.Point) 
+mViewSize:-1496777072 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187554216 
+———————————————— 
+android.webkit.WebViewCore$WebKitHitTest
+mAltDisplayString:0 (null) 
+mAnchorText:-1496779400 (
+微信红包-来自李涛
++22.00
+9月1日 14:43
+) 
+mTouchRects:-1496779544 ((others)) 
+mEnclosingParentRects:-1496779488 ((others)) 
+mTitle:0 (null) 
+mLinkUrl:0 (null) 
+mIntentUrl:0 (null) 
+mImageUrl:0 (null) 
+mHitTestY:144 
+mHitTestX:196 
+mHitTestSlop:16 
+mHitTestMovedMouse:1 
+mTapHighlightColor:0 
+mHasFocus:0 
+mEditable:0 
+———————————————— 
+android.webkit.WebViewCore$WebKitHitTest
+mAltDisplayString:0 (null) 
+mAnchorText:0 (null) 
+mTouchRects:-1498939880 ((others)) 
+mEnclosingParentRects:-1496716904 ((others)) 
+mTitle:0 (null) 
+mLinkUrl:0 (null) 
+mIntentUrl:0 (null) 
+mImageUrl:0 (null) 
+mHitTestY:179 
+mHitTestX:211 
+mHitTestSlop:16 
+mHitTestMovedMouse:1 
+mTapHighlightColor:1714664933 
+mHasFocus:1 
+mEditable:0 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496779664 (android.graphics.Point) 
+mViewSize:-1496779640 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1188501712 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496961480 (android.graphics.Point) 
+mViewSize:-1496961456 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1186707568 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496756968 (android.graphics.Point) 
+mViewSize:-1496756944 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187232360 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1498042976 (android.graphics.Point) 
+mViewSize:-1498042952 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1188145768 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1498896120 (android.graphics.Point) 
+mViewSize:-1498896096 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1186695920 
+———————————————— 
+android.webkit.WebViewCore$WebKitHitTest
+mAltDisplayString:0 (null) 
+mAnchorText:0 (null) 
+mTouchRects:-1498914320 ((others)) 
+mEnclosingParentRects:-1498880088 ((others)) 
+mTitle:0 (null) 
+mLinkUrl:0 (null) 
+mIntentUrl:0 (null) 
+mImageUrl:0 (null) 
+mHitTestY:314 
+mHitTestX:201 
+mHitTestSlop:16 
+mHitTestMovedMouse:1 
+mTapHighlightColor:1714664933 
+mHasFocus:1 
+mEditable:0 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496786144 (android.graphics.Point) 
+mViewSize:-1496786120 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187902768 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496619872 (android.graphics.Point) 
+mViewSize:-1496619848 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187634712 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496787512 (android.graphics.Point) 
+mViewSize:-1496787424 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1190516912 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496962552 (android.graphics.Point) 
+mViewSize:-1496962528 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187236136 
+———————————————— 
+android.webkit.WebViewCore$WebKitHitTest
+mAltDisplayString:0 (null) 
+mAnchorText:-1496787736 (
+微信红包-来自把酒祝东风
++2.92
+7月27日 16:33
+) 
+mTouchRects:-1496787880 ((others)) 
+mEnclosingParentRects:-1496787824 ((others)) 
+mTitle:0 (null) 
+mLinkUrl:0 (null) 
+mIntentUrl:0 (null) 
+mImageUrl:0 (null) 
+mHitTestY:331 
+mHitTestX:213 
+mHitTestSlop:16 
+mHitTestMovedMouse:1 
+mTapHighlightColor:0 
+mHasFocus:0 
+mEditable:0 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496788920 (android.graphics.Point) 
+mViewSize:-1496788896 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187232360 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496789480 (android.graphics.Point) 
+mViewSize:-1496789456 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187232360 
+———————————————— 
+android.webkit.WebViewCore$GetUrlData
+mExtraHeaders:0 (null) 
+mUrl:-1499272120 (javascript:WeixinJSBridge._continueSetResult()) 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496714696 (android.graphics.Point) 
+mViewSize:-1496714672 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1188247384 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496714976 (android.graphics.Point) 
+mViewSize:-1496714952 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187236136 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496716648 (android.graphics.Point) 
+mViewSize:-1496716624 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1188111896 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496632528 (android.graphics.Point) 
+mViewSize:-1496632504 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1190086000 
+———————————————— 
+android.webkit.WebViewCore$WebCoreThread$1
+this$0:-1498967512 (android.webkit.WebViewCore$WebCoreThread) 
+mQueue:-1497535816 (android.os.MessageQueue) 
+mCallback:0 (null) 
+mLooper:-1497779960 (android.os.Looper) 
+mMessenger:0 (null) 
+mAsynchronous:0 
+———————————————— 
+android.webkit.WebViewCore$EventHub
+this$0:-1497732528 (android.webkit.WebViewCore) 
+mMessages:0 (null) 
+mHandler:-1498345792 (android.webkit.WebViewCore$EventHub$1) 
+mDestroying:0 
+mSavedPriority:-1 
+mTid:5267 
+mBlockMessages:0 
+———————————————— 
+android.webkit.WebViewCore$WebKitHitTest
+mAltDisplayString:0 (null) 
+mAnchorText:0 (null) 
+mTouchRects:-1498894128 ((others)) 
+mEnclosingParentRects:-1496785936 ((others)) 
+mTitle:0 (null) 
+mLinkUrl:0 (null) 
+mIntentUrl:0 (null) 
+mImageUrl:0 (null) 
+mHitTestY:321 
+mHitTestX:211 
+mHitTestSlop:16 
+mHitTestMovedMouse:1 
+mTapHighlightColor:1714664933 
+mHasFocus:1 
+mEditable:0 
+———————————————— 
+android.webkit.WebViewCore$WebKitHitTest
+mAltDisplayString:0 (null) 
+mAnchorText:-1496995688 (
+微信红包-来自吕丽雅不在线
++6.66
+8月20日 22:13
+) 
+mTouchRects:-1496995832 ((others)) 
+mEnclosingParentRects:-1496995776 ((others)) 
+mTitle:0 (null) 
+mLinkUrl:0 (null) 
+mIntentUrl:0 (null) 
+mImageUrl:0 (null) 
+mHitTestY:288 
+mHitTestX:192 
+mHitTestSlop:16 
+mHitTestMovedMouse:1 
+mTapHighlightColor:0 
+mHasFocus:0 
+mEditable:0 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496756408 (android.graphics.Point) 
+mViewSize:-1496756384 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187232360 
+———————————————— 
+android.webkit.WebViewCore$WebKitHitTest
+mAltDisplayString:0 (null) 
+mAnchorText:-1498040968 (2017年9月
+支出 ¥0.00 收入 ¥22.00
+) 
+mTouchRects:-1498041080 ((others)) 
+mEnclosingParentRects:-1498041024 ((others)) 
+mTitle:0 (null) 
+mLinkUrl:0 (null) 
+mIntentUrl:0 (null) 
+mImageUrl:0 (null) 
+mHitTestY:174 
+mHitTestX:249 
+mHitTestSlop:16 
+mHitTestMovedMouse:1 
+mTapHighlightColor:0 
+mHasFocus:0 
+mEditable:0 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496788640 (android.graphics.Point) 
+mViewSize:-1496788616 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187634712 
+———————————————— 
+android.webkit.WebViewCore$WebKitHitTest
+mAltDisplayString:0 (null) 
+mAnchorText:-1496813192 (
+微信红包-来自把酒祝东风
++2.92
+7月27日 16:33
+) 
+mTouchRects:-1496813336 ((others)) 
+mEnclosingParentRects:-1496813280 ((others)) 
+mTitle:0 (null) 
+mLinkUrl:0 (null) 
+mIntentUrl:0 (null) 
+mImageUrl:0 (null) 
+mHitTestY:329 
+mHitTestX:166 
+mHitTestSlop:16 
+mHitTestMovedMouse:1 
+mTapHighlightColor:0 
+mHasFocus:0 
+mEditable:0 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496813456 (android.graphics.Point) 
+mViewSize:-1496813432 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1190086000 
+———————————————— 
+android.webkit.WebViewCore$WebCoreThread
+———————————————— 
+android.webkit.WebViewCore$GetUrlData
+mExtraHeaders:0 (null) 
+mUrl:-1498946432 (javascript:WeixinJSBridge._handleMessageFromWeixin({"__sha_key":"a4d92464d9373194b43d3042b4cef9954287c91e","__json_message":{"__params":{"err_msg":"setBounceBackground:ok"},"__callback_id":"1005","__msg_type":"callback"}})) 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496657000 (android.graphics.Point) 
+mViewSize:-1496656976 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1188095568 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496995368 (android.graphics.Point) 
+mViewSize:-1496995344 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1188511096 
+———————————————— 
+android.webkit.WebViewCore$WebKitHitTest
+mAltDisplayString:0 (null) 
+mAnchorText:-1496764656 (
+微信红包-来自吕丽雅不在线
++0.10
+7月17日 07:52
+) 
+mTouchRects:-1496678608 ((others)) 
+mEnclosingParentRects:-1496678552 ((others)) 
+mTitle:0 (null) 
+mLinkUrl:0 (null) 
+mIntentUrl:0 (null) 
+mImageUrl:0 (null) 
+mHitTestY:497 
+mHitTestX:182 
+mHitTestSlop:16 
+mHitTestMovedMouse:1 
+mTapHighlightColor:0 
+mHasFocus:0 
+mEditable:0 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496960920 (android.graphics.Point) 
+mViewSize:-1496960896 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1186707568 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496810824 (android.graphics.Point) 
+mViewSize:-1496810800 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187232360 
+———————————————— 
+android.webkit.WebViewCore$WebKitHitTest
+mAltDisplayString:0 (null) 
+mAnchorText:0 (null) 
+mTouchRects:-1498949248 ((others)) 
+mEnclosingParentRects:-1496961736 ((others)) 
+mTitle:0 (null) 
+mLinkUrl:0 (null) 
+mIntentUrl:0 (null) 
+mImageUrl:0 (null) 
+mHitTestY:163 
+mHitTestX:257 
+mHitTestSlop:16 
+mHitTestMovedMouse:1 
+mTapHighlightColor:1714664933 
+mHasFocus:1 
+mEditable:0 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496962040 (android.graphics.Point) 
+mViewSize:-1496962016 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1188190200 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1498873504 (android.graphics.Point) 
+mViewSize:-1498873480 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187232360 
+———————————————— 
+android.webkit.WebViewCore$GetUrlData
+mExtraHeaders:0 (null) 
+mUrl:-1499272120 (javascript:WeixinJSBridge._continueSetResult()) 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496756128 (android.graphics.Point) 
+mViewSize:-1496756104 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187634712 
+———————————————— 
+android.webkit.WebViewCore$EventHub$1
+this$1:-1499132520 (android.webkit.WebViewCore$EventHub) 
+mQueue:-1497535816 (android.os.MessageQueue) 
+mCallback:0 (null) 
+mLooper:-1497779960 (android.os.Looper) 
+mMessenger:0 (null) 
+mAsynchronous:0 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496813544 (android.graphics.Point) 
+mViewSize:-1496813520 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187974920 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496788360 (android.graphics.Point) 
+mViewSize:-1496788336 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187232360 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1498873784 (android.graphics.Point) 
+mViewSize:-1498873760 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187634712 
+———————————————— 
+android.webkit.WebViewCore$DrawData
+mViewState:0 (null) 
+mContentSize:-1496758448 (android.graphics.Point) 
+mViewSize:-1496758424 (android.graphics.Point) 
+mMinPrefWidth:360 
+mFirstLayoutForNonStandardLoad:0 
+mBaseLayer:-1187634712 

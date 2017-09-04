@@ -55,6 +55,8 @@
     <Compile Include="Mail189\Mail189Message.cs" />
     <Compile Include="Mail163\Mail163Helper.cs" />
     <Compile Include="Mail163\Mail163Message.cs" />
+    <Compile Include="MicroMsgTrade\MicroMsgTradeHelper.cs" />
+    <Compile Include="MicroMsgTrade\MicroMsgTradeMessage.cs" />
     <Compile Include="MicroMsg\MicroMsgFriend.cs" />
     <Compile Include="MicroMsg\MicroMsgHelper.cs" />
     <Compile Include="MicroMsg\MicroMsgMessage.cs" />
@@ -67,6 +69,7 @@
     <Compile Include="ViewModel\ECloudViewModel.cs" />
     <Compile Include="ViewModel\Mail189ViewModel.cs" />
     <Compile Include="ViewModel\Mail163ViewModel.cs" />
+    <Compile Include="ViewModel\MicroMsgTradeViewModel.cs" />
     <Compile Include="ViewModel\MicroMsgViewModel.cs" />
     <Compile Include="ViewModel\QQViewModel.cs" />
     <Compile Include="ViewModel\MainViewModel.cs" />

@@ -47,6 +47,7 @@
     <Compile Include="Tests\ECloud.cs" />
     <Compile Include="Tests\Mail189.cs" />
     <Compile Include="Tests\Mail163.cs" />
+    <Compile Include="Tests\MircoMessageTrade.cs" />
     <Compile Include="Tests\MircoMessage.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -34,17 +34,20 @@ namespace Demo.WPF
                 case "com.tencent.mm":
                     tabControl.SelectTabItem(2);
                     break;
-                case "com.netease.mobimail":
+                case "com.tencent.mmtools":
                     tabControl.SelectTabItem(4);
+                    break; 
+                case "com.netease.mobimail":
+                    tabControl.SelectTabItem(5);
                     break;
                 case "com.corp21cn.mail189":
-                     tabControl.SelectTabItem(5);
+                     tabControl.SelectTabItem(6);
                     break;
                 case "com.cn21.ecloud":
-                    tabControl.SelectTabItem(6);
+                    tabControl.SelectTabItem(7);
                     break;
                 case "com.qihoo.browser":
-                    tabControl.SelectTabItem(7);
+                    tabControl.SelectTabItem(8);
                     break;
                 default:
                     break;
