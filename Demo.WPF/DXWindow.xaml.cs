@@ -41,7 +41,7 @@ namespace Demo.WPF
                     tabControl.SelectTabItem(5);
                     break;
                 case "com.corp21cn.mail189":
-                     tabControl.SelectTabItem(6);
+                    tabControl.SelectTabItem(6);
                     break;
                 case "com.cn21.ecloud":
                     tabControl.SelectTabItem(7);
