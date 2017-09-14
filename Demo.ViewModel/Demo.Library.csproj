@@ -61,6 +61,8 @@
     <Compile Include="WhatsApp\WhatsAppMessage.cs" />
     <Compile Include="LaiWang\LaiWangHelper.cs" />
     <Compile Include="LaiWang\LaiWangMessage.cs" />
+    <Compile Include="Wangxin\YixinHelper.cs" />
+    <Compile Include="Wangxin\YixinMessage.cs" />
     <Compile Include="YYTalk\YYTalkHelper.cs" />
     <Compile Include="YYTalk\YYTalkMessage.cs" />
     <Compile Include="Yixin\YixinHelper.cs" />
