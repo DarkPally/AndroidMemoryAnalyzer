@@ -10,7 +10,7 @@ using System.Xml.Serialization;
 
 namespace AndroidMemoryAnalyzer
 {
-    static public class Account
+    static public class Dolphin
     {
         public static List<ObjectInstanceInfo> getObjectListContainID(HeapFileAnalyzer analyser, int id)
         {
@@ -34,16 +34,16 @@ namespace AndroidMemoryAnalyzer
 
         public static void DoWork()
         {
-            string path = @"F:\工作项目\内存提取\test\集合\com.microsoft.office.outlook.hprof";
+            string path = @"F:\工作项目\内存提取\test\集合\sogou.mobile.explorer.hprof";
             HeapFileAnalyzer x = new HeapFileAnalyzer(path);
             x.DoWork();
-            lookForMessage2(x);
-            //lookForText(x);
+            //lookForMessage2(x);
+            lookForText(x);
 
         }
         static void lookForMessage2(HeapFileAnalyzer analyser)
         {
-            string keyWord = "天池";
+            string keyWord = "东南大学";
 
             var t = analyser.PrimitiveArrayInfos.Where(c => c.StringData != null
                 && c.StringData.Contains(keyWord)).ToList();

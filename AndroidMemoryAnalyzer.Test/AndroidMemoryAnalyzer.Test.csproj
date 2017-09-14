@@ -42,6 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AnalysisManager\AnalysisManager.cs" />
+    <Compile Include="Tests\Dolphin.cs" />
+    <Compile Include="Tests\OuPeng.cs" />
     <Compile Include="Tests\YY.cs" />
     <Compile Include="Tests\Browser360.cs" />
     <Compile Include="Tests\BaiduPan.cs" />

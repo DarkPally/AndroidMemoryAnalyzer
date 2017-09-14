@@ -47,6 +47,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BrowserSogou\BrowserSogouHelper.cs" />
+    <Compile Include="BrowserSogou\BrowserSogouMessage.cs" />
+    <Compile Include="Dolphin\DolphinHelper.cs" />
+    <Compile Include="Dolphin\DolphinMessage.cs" />
+    <Compile Include="OutLook\OutLookHelper.cs" />
+    <Compile Include="OutLook\OutLookMessage.cs" />
+    <Compile Include="OuPeng\OuPengHelper.cs" />
+    <Compile Include="OuPeng\OuPengMessage.cs" />
     <Compile Include="Browser360\Browser360Helper.cs" />
     <Compile Include="Browser360\Browser360Message.cs" />
     <Compile Include="WhatsApp\WhatsAppHelper.cs" />
