@@ -27,6 +27,11 @@ namespace Demo.Library.ViewModel
         public YixinViewModel YixinViewModel { get; set; }
         public YYTalkViewModel YYTalkViewModel { get; set; }
 
+        public DidiViewModel DidiViewModel { get; set; }
+        public LineViewModel LineViewModel { get; set; }
+        public QQMailViewModel QQMailViewModel { get; set; }
+        public WangxinViewModel WangxinViewModel { get; set; }
+
         private static readonly MainViewModel instance = new MainViewModel();
         public static MainViewModel GetInstance() { return instance; }
         private MainViewModel()
@@ -49,6 +54,11 @@ namespace Demo.Library.ViewModel
             WhatsAppViewModel = new WhatsAppViewModel();
             YixinViewModel = new YixinViewModel();
             YYTalkViewModel = new YYTalkViewModel();
+
+            DidiViewModel = new DidiViewModel();
+            LineViewModel = new LineViewModel();
+            QQMailViewModel = new QQMailViewModel();
+            WangxinViewModel = new WangxinViewModel();
         }
 
         public static void InitializeWithParams(string type,string path)
@@ -138,6 +148,26 @@ namespace Demo.Library.ViewModel
                 case "com.duowan.mobile":
                     instance.YYTalkViewModel.FilePath = path;
                     instance.YYTalkViewModel.ExcuteAnalyzeFile();
+                    instance.startType = type;
+                    break;
+                case "com.sdu.didi.psnger":
+                    instance.DidiViewModel.FilePath = path;
+                    instance.DidiViewModel.ExcuteAnalyzeFile();
+                    instance.startType = type;
+                    break;
+                case "jp.naver.line.android":
+                    instance.LineViewModel.FilePath = path;
+                    instance.LineViewModel.ExcuteAnalyzeFile();
+                    instance.startType = type;
+                    break;
+                case "com.tencent.androidqqmail":
+                    instance.QQMailViewModel.FilePath = path;
+                    instance.QQMailViewModel.ExcuteAnalyzeFile();
+                    instance.startType = type;
+                    break;
+                case "com.alibaba.mobileim":
+                    instance.WangxinViewModel.FilePath = path;
+                    instance.WangxinViewModel.ExcuteAnalyzeFile();
                     instance.startType = type;
                     break; 
                 default:

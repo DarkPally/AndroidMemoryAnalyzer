@@ -30,7 +30,7 @@ namespace Demo.Library.Yixin
         public static List<YixinMessage> GetMessages(HeapFileAnalyzer analyser)
         {
             List<YixinMessage> result = new List<YixinMessage>();
-            var t = analyser.ObjectInstanceInfos.Where(c => c.ClassName == "cn.com.fetion.activity.MoreActivity").ToList();
+            var t = analyser.ObjectInstanceInfos.Where(c => c.ClassName == "im.yixin.common.contact.model.YixinContact").ToList();
 
             foreach (var it in t)
             {

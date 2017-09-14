@@ -31,7 +31,7 @@ namespace Demo.Library.OutLook
         public static List<OutLookMessage> GetMessages(HeapFileAnalyzer analyser)
         {
             List<OutLookMessage> result = new List<OutLookMessage>();
-            var t = analyser.ObjectInstanceInfos.Where(c => c.ClassName == "com.corp21cn.mailapp.activity.nr").ToList();
+            var t = analyser.ObjectInstanceInfos.Where(c => c.ClassName == "com.acompli.accore.model.ACConversation").ToList();
 
             foreach (var it in t)
             {

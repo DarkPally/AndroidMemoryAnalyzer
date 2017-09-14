@@ -112,6 +112,62 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="Pages\Wangxin\Messages.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Pages\QQMail\Messages.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Pages\Line\Messages.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Pages\Didi\Messages.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Pages\YYTalk\Messages.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Pages\Yixin\Messages.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Pages\WhatsApp\Messages.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Pages\OutLook\Messages.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Pages\OuPeng\Messages.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Pages\Momo\Messages.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Pages\LaiWang\Messages.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Pages\Fetion\Messages.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Pages\Dolphin\Messages.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Pages\BrowserSogou\Messages.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Pages\Browser360\Messages.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -158,6 +214,48 @@
     </Page>
     <Compile Include="DXWindow.xaml.cs">
       <DependentUpon>DXWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Wangxin\Messages.xaml.cs">
+      <DependentUpon>Messages.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\QQMail\Messages.xaml.cs">
+      <DependentUpon>Messages.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Line\Messages.xaml.cs">
+      <DependentUpon>Messages.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Didi\Messages.xaml.cs">
+      <DependentUpon>Messages.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\YYTalk\Messages.xaml.cs">
+      <DependentUpon>Messages.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Yixin\Messages.xaml.cs">
+      <DependentUpon>Messages.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\WhatsApp\Messages.xaml.cs">
+      <DependentUpon>Messages.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\OutLook\Messages.xaml.cs">
+      <DependentUpon>Messages.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\OuPeng\Messages.xaml.cs">
+      <DependentUpon>Messages.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Momo\Messages.xaml.cs">
+      <DependentUpon>Messages.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LaiWang\Messages.xaml.cs">
+      <DependentUpon>Messages.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Fetion\Messages.xaml.cs">
+      <DependentUpon>Messages.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Dolphin\Messages.xaml.cs">
+      <DependentUpon>Messages.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\BrowserSogou\Messages.xaml.cs">
+      <DependentUpon>Messages.xaml</DependentUpon>
     </Compile>
     <Compile Include="Pages\Browser360\Messages.xaml.cs">
       <DependentUpon>Messages.xaml</DependentUpon>

@@ -12,6 +12,20 @@
     xmlns:ecloud="clr-namespace:Demo.WPF.Pages.ECloud"
     xmlns:Browser360="clr-namespace:Demo.WPF.Pages.Browser360"
     
+    xmlns:BrowserSogou="clr-namespace:Demo.WPF.Pages.BrowserSogou"
+    xmlns:Didi="clr-namespace:Demo.WPF.Pages.Didi"
+    xmlns:Dolphin="clr-namespace:Demo.WPF.Pages.Dolphin"
+    xmlns:Fetion="clr-namespace:Demo.WPF.Pages.Fetion"
+    xmlns:LaiWang="clr-namespace:Demo.WPF.Pages.LaiWang"
+    xmlns:Line="clr-namespace:Demo.WPF.Pages.Line"
+    xmlns:Momo="clr-namespace:Demo.WPF.Pages.Momo"
+    xmlns:OuPeng="clr-namespace:Demo.WPF.Pages.OuPeng"
+    xmlns:OutLook="clr-namespace:Demo.WPF.Pages.OutLook"
+    xmlns:QQMail="clr-namespace:Demo.WPF.Pages.QQMail"
+    xmlns:Wangxin="clr-namespace:Demo.WPF.Pages.Wangxin"
+    xmlns:WhatsApp="clr-namespace:Demo.WPF.Pages.WhatsApp"
+    xmlns:Yixin="clr-namespace:Demo.WPF.Pages.Yixin"
+    xmlns:YYTalk="clr-namespace:Demo.WPF.Pages.YYTalk"
     Title="内存取证演示程序" Height="600" Width="800"
     dx:ThemeManager.ThemeName="Office2013LightGray"
     >
@@ -70,7 +84,77 @@
                     <Browser360:Messages />
                 </Grid>
             </dx:DXTabItem>
-            
+            <dx:DXTabItem Header="搜狗浏览器">
+                <Grid  Background="Transparent">
+                    <BrowserSogou:Messages />
+                </Grid>                
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="滴滴打车">
+                <Grid  Background="Transparent">
+                    <Didi:Messages />
+                </Grid>
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="海豚浏览器">
+                <Grid  Background="Transparent">
+                    <Dolphin:Messages />
+                </Grid>
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="飞信">
+                <Grid  Background="Transparent">
+                    <Fetion:Messages />
+                </Grid>
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="点点虫">
+                <Grid  Background="Transparent">
+                    <LaiWang:Messages />
+                </Grid>
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="Line">
+                <Grid  Background="Transparent">
+                    <Line:Messages />
+                </Grid>
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="陌陌">
+                <Grid  Background="Transparent">
+                    <Momo:Messages />
+                </Grid>
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="欧朋浏览器">
+                <Grid  Background="Transparent">
+                    <OuPeng:Messages />
+                </Grid>
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="OutLook邮箱">
+                <Grid  Background="Transparent">
+                    <OutLook:Messages />
+                </Grid>
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="QQ邮箱">
+                <Grid  Background="Transparent">
+                    <QQMail:Messages />
+                </Grid>
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="旺信">
+                <Grid  Background="Transparent">
+                    <Wangxin:Messages />
+                </Grid>
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="WhatsApp">
+                <Grid  Background="Transparent">
+                    <WhatsApp:Messages />
+                </Grid>
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="易信">
+                <Grid  Background="Transparent">
+                    <Yixin:Messages />
+                </Grid>
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="YY语音">
+                <Grid  Background="Transparent">
+                    <YYTalk:Messages />
+                </Grid>
+            </dx:DXTabItem>
+
 
         </dx:DXTabControl>
 

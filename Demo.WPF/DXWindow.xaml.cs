@@ -49,6 +49,57 @@ namespace Demo.WPF
                 case "com.qihoo.browser":
                     tabControl.SelectTabItem(8);
                     break;
+
+                case "sogou.mobile.explorer":
+                    tabControl.SelectTabItem(9);
+                    break;
+
+                case "com.sdu.didi.psnger":
+
+                    tabControl.SelectTabItem(10);
+                    break;
+                case "com.dolphin.browser.xf":
+
+                    tabControl.SelectTabItem(11);
+                    break;
+                case "cn.com.fetion":
+
+                    tabControl.SelectTabItem(12);
+                    break;
+                case "com.alibaba.android.babylon":
+                    tabControl.SelectTabItem(13);
+                    break;
+
+                case "jp.naver.line.android":
+                    tabControl.SelectTabItem(14);
+                    break;
+                case "com.immomo.momo":
+                    tabControl.SelectTabItem(15);
+                    break;
+                case "com.oupeng.mini.android":
+                    tabControl.SelectTabItem(16);
+                    break;
+                case "com.microsoft.office.outlook":
+                    tabControl.SelectTabItem(17);
+
+                    break;
+
+                case "com.tencent.androidqqmail":
+                    tabControl.SelectTabItem(18);
+                    break;
+                case "com.alibaba.mobileim":
+
+                    tabControl.SelectTabItem(19);
+                    break; 
+                case "com.whatsapp":
+                    tabControl.SelectTabItem(20);
+                    break;
+                case "im.yixin":
+                    tabControl.SelectTabItem(21);
+                    break;
+                case "com.duowan.mobile":
+                    tabControl.SelectTabItem(22);
+                    break;
                 default:
                     break;
             }

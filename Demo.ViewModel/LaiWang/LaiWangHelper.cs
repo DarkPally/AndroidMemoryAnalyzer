@@ -13,6 +13,7 @@ namespace Demo.Library.LaiWang
         public static string GetJavaString(ObjectInstanceInfo info)
         {
             if (info == null) return null;
+            if (info.ClassName != "java.lang.String") return null;
             var tt1 = ((info as ObjectInstanceInfo).InstanceFields[0] as ReferenceObjectInfo);
             if (tt1.ReferenceTarget == null) return null;
             var str_value = (tt1.ReferenceTarget as PrimitiveArrayInfo).StringData;
@@ -41,7 +42,7 @@ namespace Demo.Library.LaiWang
                     {
                         case "value":
                             var str= GetJavaString((it2 as ReferenceObjectInfo).ReferenceTarget as ObjectInstanceInfo);
-                            if (str.Contains("mobile") && str.Contains("name"))
+                            if (str!=null && str.Contains("mobile") && str.Contains("name"))
                             {
                                 msg.Json = str;
                             }

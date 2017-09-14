@@ -30,7 +30,7 @@ namespace Demo.Library.YYTalk
         public static List<YYTalkMessage> GetMessages(HeapFileAnalyzer analyser)
         {
             List<YYTalkMessage> result = new List<YYTalkMessage>();
-            var t = analyser.ObjectInstanceInfos.Where(c => c.ClassName == "cn.com.fetion.activity.MoreActivity").ToList();
+            var t = analyser.ObjectInstanceInfos.Where(c => c.ClassName == "com.yymobile.core.user.UserInfo").ToList();
 
             foreach (var it in t)
             {
@@ -40,10 +40,10 @@ namespace Demo.Library.YYTalk
                     switch (it2.Name)
                     {
                         case "userId":
-                            msg.UserID = GetJavaString((it2 as ReferenceObjectInfo).ReferenceTarget as ObjectInstanceInfo);
+                            msg.UserID = it2.Value.ToString();
                             break;
                         case "birthday":
-                            msg.Birthday = GetJavaString((it2 as ReferenceObjectInfo).ReferenceTarget as ObjectInstanceInfo);
+                            msg.Birthday = it2.Value.ToString();
                             break;
                         case "nickName":
                             msg.Name = GetJavaString((it2 as ReferenceObjectInfo).ReferenceTarget as ObjectInstanceInfo);
@@ -52,7 +52,7 @@ namespace Demo.Library.YYTalk
                             msg.Signature = GetJavaString((it2 as ReferenceObjectInfo).ReferenceTarget as ObjectInstanceInfo);
                             break;
                        case "yyId":
-                            msg.YYID = GetJavaString((it2 as ReferenceObjectInfo).ReferenceTarget as ObjectInstanceInfo);
+                            msg.YYID = it2.Value.ToString();
                             break;
                         default:
                             break;
