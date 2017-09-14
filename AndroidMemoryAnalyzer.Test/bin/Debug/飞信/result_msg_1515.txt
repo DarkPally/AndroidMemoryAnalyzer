@@ -1,0 +1,330 @@
+！！！！！！！！！！！！！！！！ 
+cn.com.fetion.activity.MoreActivity
+Layout_caiyun:-1478261616 (null) 
+carrier:-1488950032 (CMCC) 
+dressStoreLayout:-1477996464 (null) 
+handler:-1477930336 (null) 
+vip_icon:-1478060808 (null) 
+layoutMorePerformanceTest:0 (null) 
+uri:-1496478840 (sip:676700086@fetion.com.cn;p=10407) 
+mAmsTip:-1494066104 (android.widget.ImageView) 
+mButtonSet:-1477699712 (null) 
+mContext:-1494581488 (cn.com.fetion.activity.MoreActivity) 
+mCursor:-1478129384 (null) 
+mFetionDress:-1477496312 (null) 
+mFetionVip:-1478213768 (null) 
+mHandler:-1478129312 (null) 
+mIV_person_caiyun:-1478243472 (null) 
+mIconloader:0 (null) 
+mImagePortrait:-1477486800 (null) 
+mIntentFilter:-1491624496 (android.content.IntentFilter) 
+mNickName:-1496443200 (卜弌拐) 
+mPortraitDir:-1477927824 (null) 
+mPortraitUrl:-1492156296 ((null)) 
+mPrettyNumber:-1496670448 (0) 
+mReceiver:-1491626000 (cn.com.fetion.activity.MoreActivity$4) 
+mTimeOutToastManager:-1494057712 (cn.com.fetion.util.ao$a) 
+mVip:-1496498624 (8,12,2103) 
+mtextFetionID:-1478234760 (null) 
+mtextFetionName:-1487721992 (android.widget.TextView) 
+phoneNum:-1488889088 (15150655169) 
+pretty_number_icon:-1478032008 (null) 
+progressDialog:-1488074352 (cn.com.fetion.dialog.ProgressDialogF) 
+tvDressStore:-1496088608 (android.widget.TextView) 
+thread_139:0 (null) 
+timeManager:-1491713096 (cn.com.fetion.activity.MoreActivity$TimeoutManager) 
+showGuide:0 
+mActivityVisible:0 
+homenet_cancel:0 
+LeftImageView:0 (null) 
+downloadDialog:0 (null) 
+vg:-1478044616 (null) 
+upgradeDialog:0 (null) 
+titleConnection:-1487929880 (android.widget.ProgressBar) 
+tag:-1478364064 (null) 
+fTag:-1490441664 (BaseActivity) 
+mApp:-1500254296 (cn.com.fetion.App) 
+mContext:-1494581488 (cn.com.fetion.activity.MoreActivity) 
+mExitReceiver:-1492547576 (cn.com.fetion.activity.BaseActivity$6) 
+mFinishBroadcastReceiver:0 (null) 
+mFinishIntentFilter:0 (null) 
+mForwardFinishBroadcastReceiver:0 (null) 
+mHandler:-1491836184 (android.os.Handler) 
+mIntentFilter:-1487922520 (android.content.IntentFilter) 
+mIntentFilterNetworkStatus:0 (null) 
+rightView:-1495682936 (android.widget.LinearLayout) 
+netConnection:-1494071208 (android.widget.ProgressBar) 
+mNetworkStatusTitleBar:-1492834224 (cn.com.fetion.activity.BaseActivity$NetworkStatusTitleBar) 
+mOnActions:-1492872768 (java.util.HashMap) 
+mReceiverBase:-1490467584 (cn.com.fetion.activity.BaseActivity$CommonReceiver) 
+mReceiverNetworkStatus:0 (null) 
+mRunnable:0 (null) 
+mTextViewNetworkStatus:0 (null) 
+mTitleBarBackView:0 (null) 
+mTitleBarView:-1477704584 (null) 
+mTitleTextView:-1494516288 (android.widget.TextView) 
+mTitleViewLeft:-1493076600 (android.widget.LinearLayout) 
+mTitleViewLeftButton:-1477842584 (null) 
+mTitleViewRight:-1496144456 (android.widget.LinearLayout) 
+mTitleViewRightDivider:-1495629136 (android.widget.ImageView) 
+mUpgradeReceiver:-1492546824 (cn.com.fetion.activity.BaseActivity$UpgradeReceiver) 
+mViewNetworkStatus:0 (null) 
+mNetworkStatus:0 
+registerBaseReceiver:0 
+mIsNoTitle:0 
+fNetworkStatusNetworkDisconnected:1 
+fNetworkStatusLoging:2 
+fNetworkStatusLoginSucceed:3 
+fNetworkStatusLoginFailed:4 
+whetherUnregisterBaseReceiver:1 
+mAllLoaderManagers:-1491894432 (android.support.v4.util.SparseArrayCompat) 
+mLoaderManager:0 (null) 
+mHandler:-1492860664 (android.support.v4.app.FragmentActivity$1) 
+mFragments:-1478364160 (null) 
+mCreated:1 
+mCheckedForLoaderManager:1 
+mLoadersStarted:0 
+mOptionsMenuInvalidated:0 
+mReallyStopped:1 
+mResumed:0 
+mRetaining:0 
+mStopped:1 
+mActionBar:0 (null) 
+mActivityInfo:-1478375272 (null) 
+mAllLoaderManagers:-1491893680 (java.util.HashMap) 
+mApplication:-1500254296 (cn.com.fetion.App) 
+mWindowManager:-1492868192 (android.view.WindowManagerImpl) 
+mWindow:-1488097632 (com.android.internal.policy.impl.PhoneWindow) 
+mUiThread:-1509267144 (java.lang.Thread) 
+mComponent:-1488744088 (android.content.ComponentName) 
+mToken:-1492700880 (android.app.LocalActivityManager$LocalActivityRecord) 
+mContainer:-1492837208 (android.app.Activity$1) 
+mCurrentConfig:-1477630480 (null) 
+mDecor:0 (null) 
+mTitle:-1492862152 (厚謹) 
+mDefaultKeySsb:0 (null) 
+mSearchManager:0 (null) 
+mEmbeddedID:-1496072024 (moreId) 
+mResultData:0 (null) 
+mParent:-1496073272 (cn.com.fetion.activity.MainActivity) 
+mFragments:-1478386392 (null) 
+mHandler:-1478386216 (null) 
+mMenuInflater:0 (null) 
+mInstanceTracker:-1492829640 (android.os.StrictMode$InstanceTracker) 
+mInstrumentation:-1500263384 (android.app.Instrumentation) 
+mIntent:-1488854296 (android.content.Intent) 
+mLastNonConfigurationInstances:0 (null) 
+mLoaderManager:0 (null) 
+mManagedDialogs:0 (null) 
+mMainThread:-1500292952 (android.app.ActivityThread) 
+mManagedCursors:-1492835720 (java.util.ArrayList) 
+mLoadersStarted:0 
+mIdent:0 
+mFinished:0 
+mResultCode:0 
+mEnableDefaultActionBarUp:0 
+mResumed:0 
+mDestroyed:0 
+mStartedActivity:0 
+mStopped:1 
+mTemporaryPause:0 
+mDefaultKeyMode:0 
+mTitleColor:0 
+mTitleReady:0 
+mConfigChangeFlags:0 
+mCheckedForLoaderManager:1 
+mVisibleFromClient:1 
+mVisibleFromServer:0 
+mChangingConfigurations:0 
+mWindowAdded:0 
+mCalled:1 
+mBase:-1477911344 (null) 
+mInflater:-1492867464 (com.android.internal.policy.impl.PhoneLayoutInflater) 
+mOverrideConfiguration:0 (null) 
+mResources:-1500268160 (android.content.res.Resources) 
+mTheme:-1492654904 (android.content.res.Resources$Theme) 
+mThemeResource:2131689502 
+mBase:-1477911344 (null) 
+！！！！！！！！！！！！！！！！ 
+java.util.HashMap$HashMapEntry
+value:-1491494008 (15150655169) 
+key:-1495628000 (cn.com.fetion.logic.sevice.logic.RingtoneServiceLogic.EXTRA_MOBILENUMBER) 
+next:0 (null) 
+hash:990748280 
+！！！！！！！！！！！！！！！！ 
+cn.com.fetion.activity.UserInfoActivity
+PersonlChannelRunnable:-1491468288 (cn.com.fetion.activity.UserInfoActivity$19) 
+sourceActivity:0 (null) 
+mUserNameTextView:-1478028240 (null) 
+mUserId:0 (null) 
+mUri:-1477889848 (null) 
+SET_PHOTO_MODE:-1494181552 ((others)) 
+STR_SEX:-1492646664 ((others)) 
+TAG:-1490957128 (UserInfoActivity) 
+UserInfoTextLayout:-1488125408 (android.widget.LinearLayout) 
+besideIntent:0 (null) 
+mTextViewSex:-1477481176 (null) 
+mTextViewRegion:-1494332664 (android.widget.TextView) 
+image_body_layout:-1478385200 (null) 
+mTextViewBirth:-1488138208 (android.widget.TextView) 
+mTextRingbackMusic:-1477491584 (null) 
+mBirth:-1490593672 (1899-12-31) 
+mCameraPicture:0 (null) 
+mCameraPicturePath:0 (null) 
+mCompanyInfoLayout:-1494529560 (android.widget.LinearLayout) 
+mCrc:-1477889728 (null) 
+mCursor:-1490529576 (android.content.ContentResolver$CursorWrapperInner) 
+mEditImage:-1494334256 (android.widget.ImageView) 
+mEditSexDialog:0 (null) 
+mEditUserBirthdayImageView:-1478091264 (null) 
+mEditUserGenderImageView:-1494299008 (android.widget.LinearLayout) 
+mEditUserImpresaImageView:-1478427288 (null) 
+mEditUserMyselfTrends:-1477919280 (null) 
+mEditUserNickNameImageView:-1478338880 (null) 
+mEditUserProvinceImageView:-1496086088 (android.widget.LinearLayout) 
+mEditUserQRCodeImageView:-1478370032 (null) 
+mEditUserRingbackMusic:-1477492504 (null) 
+mFetionNumber:-1496148832 (android.widget.TextView) 
+mHandler:-1490532200 (android.os.Handler) 
+mHeadBackGround:-1487987864 (android.widget.ImageView) 
+mHeaderImage:-1487987864 (android.widget.ImageView) 
+mSpaceHolder:-1495679776 (android.widget.LinearLayout) 
+mImageViewLianghao:-1494521256 (android.widget.ImageView) 
+mImageViewVip:-1496123888 (android.widget.ImageView) 
+mImpresa:-1490590520 ((null)) 
+mImpresaShowTextView:-1477892456 (null) 
+mMobilNum:-1490591192 (15150655169) 
+mMobileNumber:-1478098072 (null) 
+mNickName:-1490590048 ((null)) 
+mNickNameTextView:-1495671528 (cn.com.fetion.view.FocusedTextView) 
+mPersonHandler:-1477847104 (null) 
+mPictureWrapper:-1496147928 (android.widget.RelativeLayout) 
+mPortraitDir:-1492633912 (java.io.File) 
+mPortraitImageView:-1477922088 (null) 
+mPortraitUrl:-1494316864 (http://hdss1ftb.fetion.com.cn/HDS_S00/hds/GetPortrait.aspx?) 
+mReceiver:-1493919056 (cn.com.fetion.activity.UserInfoActivity$4) 
+mRegion:-1490599784 (CN.js.25.) 
+mRingtoneId:0 (null) 
+mScrollView:-1496146024 (cn.com.fetion.view.UserInfoScrollView2) 
+mSexSelectedGroupId:0 (null) 
+mShowAllCompanyInfoListView:-1494382712 (cn.com.fetion.view.AttachmentListView) 
+mSingerName:0 (null) 
+mSongName:-1490957768 (槽咄垂) 
+mId:999482011 
+isNeedDownloadPhoto:0 
+indexPhotoMode:0 
+fListDialogItemIndexCreateImage:1 
+fListDialogItemIndexBrowseImage:0 
+REQUEST_CODE_CAMERA_PERSONALBACKGROUND:212 
+REQUEST_CODE_CAMERA:112 
+REQUEST_CODE_BROWSEIMAGE_PERSONALBACKGROUND:211 
+REQUEST_CODE_BROWSEIMAGE:111 
+LeftImageView:0 (null) 
+downloadDialog:0 (null) 
+vg:-1477580232 (null) 
+upgradeDialog:0 (null) 
+titleConnection:-1494077560 (android.widget.ProgressBar) 
+tag:-1490956616 ((null)) 
+fTag:-1490441664 (BaseActivity) 
+mApp:-1500254296 (cn.com.fetion.App) 
+mContext:-1494524632 (cn.com.fetion.activity.UserInfoActivity) 
+mExitReceiver:-1491682864 (cn.com.fetion.activity.BaseActivity$6) 
+mFinishBroadcastReceiver:0 (null) 
+mFinishIntentFilter:0 (null) 
+mForwardFinishBroadcastReceiver:0 (null) 
+mHandler:-1494127384 (android.os.Handler) 
+mIntentFilter:-1492579136 (android.content.IntentFilter) 
+mIntentFilterNetworkStatus:0 (null) 
+rightView:0 (null) 
+netConnection:-1494098920 (android.widget.ProgressBar) 
+mNetworkStatusTitleBar:-1491598032 (cn.com.fetion.activity.BaseActivity$NetworkStatusTitleBar) 
+mOnActions:-1491273088 (java.util.HashMap) 
+mReceiverBase:-1478369312 (null) 
+mReceiverNetworkStatus:0 (null) 
+mRunnable:0 (null) 
+mTextViewNetworkStatus:0 (null) 
+mTitleBarBackView:0 (null) 
+mTitleBarView:-1477539440 (null) 
+mTitleTextView:-1477789184 (null) 
+mTitleViewLeft:-1496125984 (android.widget.LinearLayout) 
+mTitleViewLeftButton:-1478194280 (null) 
+mTitleViewRight:-1495680816 (android.widget.LinearLayout) 
+mTitleViewRightDivider:-1478366488 (null) 
+mUpgradeReceiver:-1491683616 (cn.com.fetion.activity.BaseActivity$UpgradeReceiver) 
+mViewNetworkStatus:0 (null) 
+mNetworkStatus:0 
+registerBaseReceiver:1 
+mIsNoTitle:0 
+fNetworkStatusNetworkDisconnected:1 
+fNetworkStatusLoging:2 
+fNetworkStatusLoginSucceed:3 
+fNetworkStatusLoginFailed:4 
+whetherUnregisterBaseReceiver:1 
+mAllLoaderManagers:-1490289584 (android.support.v4.util.SparseArrayCompat) 
+mLoaderManager:0 (null) 
+mHandler:-1490016288 (android.support.v4.app.FragmentActivity$1) 
+mFragments:-1478291808 (null) 
+mCreated:1 
+mCheckedForLoaderManager:1 
+mLoadersStarted:1 
+mOptionsMenuInvalidated:0 
+mReallyStopped:0 
+mResumed:1 
+mRetaining:0 
+mStopped:0 
+mActionBar:0 (null) 
+mActivityInfo:-1494219736 (android.content.pm.ActivityInfo) 
+mAllLoaderManagers:-1477912312 (null) 
+mApplication:-1500254296 (cn.com.fetion.App) 
+mWindowManager:-1491647008 (android.view.WindowManagerImpl) 
+mWindow:-1496115936 (com.android.internal.policy.impl.PhoneWindow) 
+mUiThread:-1509267144 (java.lang.Thread) 
+mComponent:-1491528512 (android.content.ComponentName) 
+mToken:-1491530752 (android.os.BinderProxy) 
+mContainer:-1491417944 (android.app.Activity$1) 
+mCurrentConfig:-1496116264 (android.content.res.Configuration) 
+mDecor:-1496118040 (com.android.internal.policy.impl.PhoneWindow$DecorView) 
+mTitle:-1494116456 (倖繁彿創) 
+mDefaultKeySsb:0 (null) 
+mSearchManager:0 (null) 
+mEmbeddedID:0 (null) 
+mResultData:0 (null) 
+mParent:0 (null) 
+mFragments:-1494328136 (android.app.FragmentManagerImpl) 
+mHandler:-1490956000 (android.os.Handler) 
+mMenuInflater:0 (null) 
+mInstanceTracker:-1491421032 (android.os.StrictMode$InstanceTracker) 
+mInstrumentation:-1500263384 (android.app.Instrumentation) 
+mIntent:-1491260896 (android.content.Intent) 
+mLastNonConfigurationInstances:0 (null) 
+mLoaderManager:0 (null) 
+mManagedDialogs:0 (null) 
+mMainThread:-1500292952 (android.app.ActivityThread) 
+mManagedCursors:-1491597296 (java.util.ArrayList) 
+mLoadersStarted:1 
+mIdent:1398029864 
+mFinished:0 
+mResultCode:0 
+mEnableDefaultActionBarUp:0 
+mResumed:1 
+mDestroyed:0 
+mStartedActivity:0 
+mStopped:0 
+mTemporaryPause:0 
+mDefaultKeyMode:0 
+mTitleColor:0 
+mTitleReady:1 
+mConfigChangeFlags:0 
+mCheckedForLoaderManager:1 
+mVisibleFromClient:1 
+mVisibleFromServer:1 
+mChangingConfigurations:0 
+mWindowAdded:1 
+mCalled:1 
+mBase:-1495669712 (android.app.ContextImpl) 
+mInflater:-1489837376 (com.android.internal.policy.impl.PhoneLayoutInflater) 
+mOverrideConfiguration:0 (null) 
+mResources:-1500268160 (android.content.res.Resources) 
+mTheme:-1491649288 (android.content.res.Resources$Theme) 
+mThemeResource:2131689502 
+mBase:-1495669712 (android.app.ContextImpl) 

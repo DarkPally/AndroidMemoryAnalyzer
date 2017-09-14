@@ -49,6 +49,8 @@
   <ItemGroup>
     <Compile Include="Browser360\Browser360Helper.cs" />
     <Compile Include="Browser360\Browser360Message.cs" />
+    <Compile Include="Momo\MomoHelper.cs" />
+    <Compile Include="Momo\MomoMessage.cs" />
     <Compile Include="ECloud\ECloudHelper.cs" />
     <Compile Include="ECloud\ECloudMessage.cs" />
     <Compile Include="Mail189\Mail189Helper.cs" />
