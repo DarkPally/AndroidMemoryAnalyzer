@@ -32,10 +32,25 @@ namespace Demo.Library.ViewModel
         public QQMailViewModel QQMailViewModel { get; set; }
         public WangxinViewModel WangxinViewModel { get; set; }
 
+
+        public BaiduHiViewModel BaiduHiViewModel { get; set; }
+
+        public BaiduPanViewModel BaiduPanViewModel { get; set; }
+
+        public BrowserQQViewModel BrowserQQViewModel { get; set; }
+        public MiTalkViewModel MiTalkViewModel { get; set; }
+        public RenrenViewModel RenrenViewModel { get; set; }
+
         private static readonly MainViewModel instance = new MainViewModel();
         public static MainViewModel GetInstance() { return instance; }
         private MainViewModel()
         {
+            BaiduHiViewModel = new BaiduHiViewModel();
+            BaiduPanViewModel = new BaiduPanViewModel();
+            BrowserQQViewModel = new BrowserQQViewModel();
+            MiTalkViewModel = new MiTalkViewModel();
+            RenrenViewModel = new RenrenViewModel();
+            
             MicroMsgViewModel = new MicroMsgViewModel();
             QQViewModel = new QQViewModel();
             Mail163ViewModel = new Mail163ViewModel();
@@ -59,6 +74,8 @@ namespace Demo.Library.ViewModel
             LineViewModel = new LineViewModel();
             QQMailViewModel = new QQMailViewModel();
             WangxinViewModel = new WangxinViewModel();
+
+
         }
 
         public static void InitializeWithParams(string type,string path)
@@ -168,6 +185,34 @@ namespace Demo.Library.ViewModel
                 case "com.alibaba.mobileim":
                     instance.WangxinViewModel.FilePath = path;
                     instance.WangxinViewModel.ExcuteAnalyzeFile();
+                    instance.startType = type;
+                    break;
+                case "com.baidu.hi":
+                    instance.BaiduHiViewModel.FilePath = path;
+                    instance.BaiduHiViewModel.ExcuteAnalyzeFile();
+                    instance.startType = type;
+                    break;
+                case "com.baidu.netdisk":
+                    instance.BaiduPanViewModel.FilePath = path;
+                    instance.BaiduPanViewModel.ExcuteAnalyzeFile();
+                    instance.startType = type;
+                    break;
+
+                case "com.tencent.mtt":
+                    instance.BrowserQQViewModel.FilePath = path;
+                    instance.BrowserQQViewModel.ExcuteAnalyzeFile();
+                    instance.startType = type;
+                    break;
+
+                case "com.xiaomi.channel":
+                    instance.MiTalkViewModel.FilePath = path;
+                    instance.MiTalkViewModel.ExcuteAnalyzeFile();
+                    instance.startType = type;
+                    break;
+
+                case "com.renren.xiaonei.android":
+                    instance.RenrenViewModel.FilePath = path;
+                    instance.RenrenViewModel.ExcuteAnalyzeFile();
                     instance.startType = type;
                     break; 
                 default:

@@ -34,16 +34,16 @@ namespace AndroidMemoryAnalyzer
 
         public static void DoWork()
         {
-            string path = @"F:\工作项目\内存提取\test\真机集合\com.renren.xiaonei.android.hprof";
+            string path = @"F:\工作项目\内存提取\test\真机集合\com.tencent.mtt.hprof";
             HeapFileAnalyzer x = new HeapFileAnalyzer(path);
             x.DoWork();
-            lookForMessage2(x);
-            //lookForText(x);
+            //lookForMessage2(x);
+            lookForText(x);
 
         }
         static void lookForMessage2(HeapFileAnalyzer analyser)
         {
-            string keyWord = "1565";
+            string keyWord = "seu";
 
             var t = analyser.PrimitiveArrayInfos.Where(c => c.StringData != null
                 && c.StringData.Contains(keyWord)).ToList();
@@ -147,7 +147,7 @@ namespace AndroidMemoryAnalyzer
         {
             //com.netease.mobimail.n.c.am 邮件
             //com.netease.mobimail.n.c.k 收发人
-            string keyWord = "history";
+            string keyWord = "com.tencent.mtt.browser.history.History";
             var t = analyser.ObjectInstanceInfos
                 .Where(c => c.ClassName != null
                     && c.ClassName.Contains(keyWord))

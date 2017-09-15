@@ -100,6 +100,24 @@ namespace Demo.WPF
                 case "com.duowan.mobile":
                     tabControl.SelectTabItem(22);
                     break;
+                case "com.baidu.hi":
+                    tabControl.SelectTabItem(23);
+                    break;
+                case "com.baidu.netdisk":
+                    tabControl.SelectTabItem(24);
+                    break;
+
+                case "com.tencent.mtt":
+                    tabControl.SelectTabItem(25);
+                    break;
+
+                case "com.xiaomi.channel":
+                    tabControl.SelectTabItem(26);
+                    break;
+
+                case "com.renren.xiaonei.android":
+                    tabControl.SelectTabItem(27);
+                    break; 
                 default:
                     break;
             }

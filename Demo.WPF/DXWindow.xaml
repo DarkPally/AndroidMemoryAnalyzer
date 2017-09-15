@@ -26,6 +26,13 @@
     xmlns:WhatsApp="clr-namespace:Demo.WPF.Pages.WhatsApp"
     xmlns:Yixin="clr-namespace:Demo.WPF.Pages.Yixin"
     xmlns:YYTalk="clr-namespace:Demo.WPF.Pages.YYTalk"
+    
+     xmlns:BaiduHi="clr-namespace:Demo.WPF.Pages.BaiduHi"
+     xmlns:BaiduPan="clr-namespace:Demo.WPF.Pages.BaiduPan"
+     xmlns:MiTalk="clr-namespace:Demo.WPF.Pages.MiTalk"
+     xmlns:BrowserQQ="clr-namespace:Demo.WPF.Pages.BrowserQQ"
+     xmlns:Renren="clr-namespace:Demo.WPF.Pages.Renren"
+    
     Title="内存取证演示程序" Height="600" Width="800"
     dx:ThemeManager.ThemeName="Office2013LightGray"
     >
@@ -152,6 +159,32 @@
             <dx:DXTabItem Header="YY语音">
                 <Grid  Background="Transparent">
                     <YYTalk:Messages />
+                </Grid>
+            </dx:DXTabItem>
+
+            <dx:DXTabItem Header="百度Hi">
+                <Grid  Background="Transparent">
+                    <BaiduHi:Messages />
+                </Grid>
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="百度云盘">
+                <Grid  Background="Transparent">
+                    <BaiduPan:Messages />
+                </Grid>
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="QQ浏览器">
+                <Grid  Background="Transparent">
+                    <BrowserQQ:Messages />
+                </Grid>
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="米聊">
+                <Grid  Background="Transparent">
+                    <MiTalk:Messages />
+                </Grid>
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="人人">
+                <Grid  Background="Transparent">
+                    <Renren:Messages />
                 </Grid>
             </dx:DXTabItem>
 

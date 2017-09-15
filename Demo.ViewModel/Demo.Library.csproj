@@ -47,8 +47,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BaiduHi\BaiduHiHelper.cs" />
+    <Compile Include="BaiduHi\BaiduHiMessage.cs" />
+    <Compile Include="BrowserQQ\BrowserQQHelper.cs" />
+    <Compile Include="BrowserQQ\BrowserQQMessage.cs" />
     <Compile Include="BrowserSogou\BrowserSogouHelper.cs" />
     <Compile Include="BrowserSogou\BrowserSogouMessage.cs" />
+    <Compile Include="BaiduPan\BaiduPanHelper.cs" />
+    <Compile Include="BaiduPan\BaiduPanMessage.cs" />
+    <Compile Include="MiTalk\MiTalkHelper.cs" />
+    <Compile Include="MiTalk\MiTalkMessage.cs" />
+    <Compile Include="Renren\RenrenHelper.cs" />
+    <Compile Include="Renren\RenrenMessage.cs" />
     <Compile Include="Didi\DidiHelper.cs" />
     <Compile Include="Didi\DidiMessage.cs" />
     <Compile Include="Dolphin\DolphinHelper.cs" />
@@ -76,6 +86,11 @@
     <Compile Include="ViewModel\DidiViewModel.cs" />
     <Compile Include="ViewModel\WhatsAppViewModel.cs" />
     <Compile Include="ViewModel\YixinViewModel.cs" />
+    <Compile Include="ViewModel\MiTalkViewModel.cs" />
+    <Compile Include="ViewModel\RenrenViewModel.cs" />
+    <Compile Include="ViewModel\BaiduPanViewModel.cs" />
+    <Compile Include="ViewModel\BaiduHiViewModel.cs" />
+    <Compile Include="ViewModel\BrowserQQViewModel.cs" />
     <Compile Include="ViewModel\YYTalkViewModel.cs" />
     <Compile Include="Wangxin\WangxinHelper.cs" />
     <Compile Include="Wangxin\WangxinMessage.cs" />
