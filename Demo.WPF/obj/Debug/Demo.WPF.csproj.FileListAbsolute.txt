@@ -1,0 +1,1 @@
+F:\Project\vs_project\AndroidMemoryAnalyzer\Demo.WPF\bin\Debug\de\DevExpress.Data.v15.2.resources.dll

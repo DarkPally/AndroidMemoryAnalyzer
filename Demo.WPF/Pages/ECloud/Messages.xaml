@@ -5,11 +5,12 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              mc:Ignorable="d" 
              DataContext="{Binding ECloudViewModel}"
-             d:DesignHeight="300" d:DesignWidth="300"
+             d:DesignHeight="800" d:DesignWidth="800"
              xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid">
     <Grid  HorizontalAlignment="Center" Width="720">
         <Grid.RowDefinitions>
             <RowDefinition Height="80"/>
+            <RowDefinition Height="40"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
         <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center" Height="26">
@@ -22,7 +23,12 @@
             <TextBlock Text="{Binding State}" VerticalAlignment="Center" Margin="0,0,10,0"/>                
         </StackPanel>
 
-        <dxg:GridControl Grid.Row="1" AutoGenerateColumns="AddNew" EnableSmartColumnsGeneration="True"
+        <StackPanel Grid.Row="1" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Left" Height="26">
+            <TextBlock Text="登录账号:" Margin="10,0,10,0" VerticalAlignment="Center"/>
+            
+            <TextBlock Text="{Binding Account}" VerticalAlignment="Center" Margin="0,0,10,0"/>
+        </StackPanel>
+        <dxg:GridControl Grid.Row="2" AutoGenerateColumns="AddNew" EnableSmartColumnsGeneration="True"
                          ItemsSource="{Binding Msgs}" >
             <dxg:GridControl.Columns>
                 <dxg:GridColumn FieldName="FileName" Header="文件名" />

@@ -58,5 +58,30 @@ namespace Demo.Library.ECloud
             return result;
         }
 
+        public static string GetAccount(HeapFileAnalyzer analyser)
+        {
+            var t = analyser.ObjectInstanceInfos.Where(c => c.ClassName == "com.cn21.ecloud.analysis.bean.UserInfo").ToList();
+
+            foreach (var it in t)
+            {
+                foreach (var it2 in it.InstanceFields)
+                {
+                    switch (it2.Name)
+                    {
+                        case "_loginName":
+                            var str= GetJavaString((it2 as ReferenceObjectInfo).ReferenceTarget as ObjectInstanceInfo);
+                            if (str!=null)
+                            {
+                                return str;
+                            }
+                            break;                        
+                        default:
+                            break;
+                    }
+                }
+            }
+            return null;
+        }
+
     }
 }

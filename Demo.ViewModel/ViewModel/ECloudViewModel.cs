@@ -41,6 +41,20 @@ namespace Demo.Library.ViewModel
                 }
             } 
         }
+
+        string account = "无";
+        public string Account
+        {
+            get { return account; }
+            set
+            {
+                if (account != value)
+                {
+                    account = value;
+                    RaisePropertyChanged("Account");
+                }
+            }
+        }
         public string FilePath { get; set; }
         public DelegateCommand AnalyzeFile
         {
@@ -68,6 +82,7 @@ namespace Demo.Library.ViewModel
 
                         x.DoWork();
                         Msgs = ECloudHelper.GetMessages(x);
+                        Account = ECloudHelper.GetAccount(x);
                         State = "解析完成！";
                     }
                     catch
