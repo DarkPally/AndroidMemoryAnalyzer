@@ -12,6 +12,22 @@ using AndroidMemoryAnalyzer.HeapAnalyzer;
 
 namespace Demo.Library.ViewModel
 {
+    class QQGroupFriendsComparer : IEqualityComparer<QQGroupFriendsBinder>
+    {
+        public bool Equals(QQGroupFriendsBinder p1, QQGroupFriendsBinder p2)
+        {
+            if (p1 == null)
+                return p2 == null;
+            return p1.ID == p2.ID;
+        }
+
+        public int GetHashCode(QQGroupFriendsBinder p)
+        {
+            if (p == null)
+                return 0;
+            return p.ID.GetHashCode();
+        }
+    }
     public class QQGroupFriendsBinder
     {
         public string Name { get; set; }
@@ -98,18 +114,21 @@ namespace Demo.Library.ViewModel
                             {
                                 Name=c.Name,
                                 GroupID = "g"+c.GroupID,
-                                UIN = c.UIN,
-                                ID = "f" + c.UIN,
+                                UIN = c.UIN.Replace("\0", ""),
+                                ID = "f" + c.UIN.Replace("\0",""),
                                 Age = c.Age,
                                 Gender = c.Gender,
                                 Remark=c.Remark,
                             }).ToList();
+
                         var t = group.Where(c => c.Name != null).OrderBy(c=>c.GroupID).Select(c => new QQGroupFriendsBinder()
                             {
                                 Name = c.Name,
                                 ID = "g" + c.GroupID,
                             });
                         temp.AddRange(t);
+
+                        temp = temp.Distinct(new QQGroupFriendsComparer()).ToList();
                         Groups = temp;
 
                         Msgs = QQHelper.GetMessages(x);
@@ -120,8 +139,11 @@ namespace Demo.Library.ViewModel
                         State = "解析出现异常";
                     }
                     
+
                 });
 
         }
     }
+
+
 }
