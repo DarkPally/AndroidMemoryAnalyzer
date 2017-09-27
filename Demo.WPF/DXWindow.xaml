@@ -34,6 +34,7 @@
      xmlns:Renren="clr-namespace:Demo.WPF.Pages.Renren"
     
     xmlns:Skype="clr-namespace:Demo.WPF.Pages.Skype"
+    xmlns:AliPay="clr-namespace:Demo.WPF.Pages.AliPay"
     Title="内存取证演示程序" Height="600" Width="800"
     dx:ThemeManager.ThemeName="Office2013LightGray"
     >
@@ -191,6 +192,11 @@
             <dx:DXTabItem Header="Skype">
                 <Grid  Background="Transparent">
                     <Skype:Messages />
+                </Grid>
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="支付宝">
+                <Grid  Background="Transparent">
+                    <AliPay:Messages />
                 </Grid>
             </dx:DXTabItem>
             

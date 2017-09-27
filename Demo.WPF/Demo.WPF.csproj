@@ -112,6 +112,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="Pages\AliPay\Messages.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Pages\BaiduPan\Messages.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -238,6 +242,9 @@
     </Page>
     <Compile Include="DXWindow.xaml.cs">
       <DependentUpon>DXWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\AliPay\Messages.xaml.cs">
+      <DependentUpon>Messages.xaml</DependentUpon>
     </Compile>
     <Compile Include="Pages\BaiduPan\Messages.xaml.cs">
       <DependentUpon>Messages.xaml</DependentUpon>

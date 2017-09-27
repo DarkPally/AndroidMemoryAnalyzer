@@ -47,6 +47,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AliPay\AliPayHelper.cs" />
+    <Compile Include="AliPay\AliPayMessage.cs" />
     <Compile Include="BaiduHi\BaiduHiHelper.cs" />
     <Compile Include="BaiduHi\BaiduHiMessage.cs" />
     <Compile Include="BrowserQQ\BrowserQQHelper.cs" />
@@ -73,6 +75,7 @@
     <Compile Include="Browser360\Browser360Message.cs" />
     <Compile Include="QQMail\QQMailHelper.cs" />
     <Compile Include="QQMail\QQMailMessage.cs" />
+    <Compile Include="ViewModel\AliPayViewModel.cs" />
     <Compile Include="ViewModel\BrowserSogouViewModel.cs" />
     <Compile Include="ViewModel\DolphinViewModel.cs" />
     <Compile Include="ViewModel\FetionViewModel.cs" />

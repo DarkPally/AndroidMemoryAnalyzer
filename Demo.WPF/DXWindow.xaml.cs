@@ -121,6 +121,9 @@ namespace Demo.WPF
                 case "com.skype.rover":
                     tabControl.SelectTabItem(28);
                     break;
+                case "com.eg.android.AlipayGphone":
+                    tabControl.SelectTabItem(29);
+                    break;
                 default:
                     break;
             }

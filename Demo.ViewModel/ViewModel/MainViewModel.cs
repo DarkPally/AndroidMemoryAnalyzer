@@ -42,12 +42,13 @@ namespace Demo.Library.ViewModel
         public RenrenViewModel RenrenViewModel { get; set; }
 
         public SkypeViewModel SkypeViewModel { get; set; }
-
+        public AliPayViewModel AliPayViewModel { get; set; }
         private static readonly MainViewModel instance = new MainViewModel();
         public static MainViewModel GetInstance() { return instance; }
         private MainViewModel()
         {
             SkypeViewModel = new SkypeViewModel();
+            AliPayViewModel = new AliPayViewModel();
 
             BaiduHiViewModel = new BaiduHiViewModel();
             BaiduPanViewModel = new BaiduPanViewModel();
@@ -222,6 +223,11 @@ namespace Demo.Library.ViewModel
                 case "com.skype.rover":
                     instance.SkypeViewModel.FilePath = path;
                     instance.SkypeViewModel.ExcuteAnalyzeFile();
+                    instance.startType = type;
+                    break;
+                case "com.eg.android.AlipayGphone":
+                    instance.AliPayViewModel.FilePath = path;
+                    instance.AliPayViewModel.ExcuteAnalyzeFile();
                     instance.startType = type;
                     break;
                 default:
