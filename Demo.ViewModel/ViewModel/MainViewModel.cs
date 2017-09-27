@@ -41,10 +41,14 @@ namespace Demo.Library.ViewModel
         public MiTalkViewModel MiTalkViewModel { get; set; }
         public RenrenViewModel RenrenViewModel { get; set; }
 
+        public SkypeViewModel SkypeViewModel { get; set; }
+
         private static readonly MainViewModel instance = new MainViewModel();
         public static MainViewModel GetInstance() { return instance; }
         private MainViewModel()
         {
+            SkypeViewModel = new SkypeViewModel();
+
             BaiduHiViewModel = new BaiduHiViewModel();
             BaiduPanViewModel = new BaiduPanViewModel();
             BrowserQQViewModel = new BrowserQQViewModel();
@@ -214,7 +218,12 @@ namespace Demo.Library.ViewModel
                     instance.RenrenViewModel.FilePath = path;
                     instance.RenrenViewModel.ExcuteAnalyzeFile();
                     instance.startType = type;
-                    break; 
+                    break;
+                case "com.skype.rover":
+                    instance.SkypeViewModel.FilePath = path;
+                    instance.SkypeViewModel.ExcuteAnalyzeFile();
+                    instance.startType = type;
+                    break;
                 default:
                     break;
             }

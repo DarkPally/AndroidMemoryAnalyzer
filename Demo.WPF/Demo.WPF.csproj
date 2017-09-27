@@ -148,6 +148,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="Pages\Skype\Messages.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Pages\YYTalk\Messages.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -260,6 +264,9 @@
       <DependentUpon>Messages.xaml</DependentUpon>
     </Compile>
     <Compile Include="Pages\Didi\Messages.xaml.cs">
+      <DependentUpon>Messages.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Skype\Messages.xaml.cs">
       <DependentUpon>Messages.xaml</DependentUpon>
     </Compile>
     <Compile Include="Pages\YYTalk\Messages.xaml.cs">

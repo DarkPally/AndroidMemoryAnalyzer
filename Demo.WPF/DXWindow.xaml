@@ -33,6 +33,7 @@
      xmlns:BrowserQQ="clr-namespace:Demo.WPF.Pages.BrowserQQ"
      xmlns:Renren="clr-namespace:Demo.WPF.Pages.Renren"
     
+    xmlns:Skype="clr-namespace:Demo.WPF.Pages.Skype"
     Title="内存取证演示程序" Height="600" Width="800"
     dx:ThemeManager.ThemeName="Office2013LightGray"
     >
@@ -187,7 +188,12 @@
                     <Renren:Messages />
                 </Grid>
             </dx:DXTabItem>
-
+            <dx:DXTabItem Header="Skype">
+                <Grid  Background="Transparent">
+                    <Skype:Messages />
+                </Grid>
+            </dx:DXTabItem>
+            
 
         </dx:DXTabControl>
 

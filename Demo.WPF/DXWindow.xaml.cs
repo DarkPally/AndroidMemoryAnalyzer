@@ -117,7 +117,10 @@ namespace Demo.WPF
 
                 case "com.renren.xiaonei.android":
                     tabControl.SelectTabItem(27);
-                    break; 
+                    break;
+                case "com.skype.rover":
+                    tabControl.SelectTabItem(28);
+                    break;
                 default:
                     break;
             }

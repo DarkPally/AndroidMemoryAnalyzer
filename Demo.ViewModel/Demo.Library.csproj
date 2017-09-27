@@ -91,6 +91,7 @@
     <Compile Include="ViewModel\BaiduPanViewModel.cs" />
     <Compile Include="ViewModel\BaiduHiViewModel.cs" />
     <Compile Include="ViewModel\BrowserQQViewModel.cs" />
+    <Compile Include="ViewModel\SkypeViewModel.cs" />
     <Compile Include="ViewModel\YYTalkViewModel.cs" />
     <Compile Include="Wangxin\WangxinHelper.cs" />
     <Compile Include="Wangxin\WangxinMessage.cs" />
@@ -98,6 +99,8 @@
     <Compile Include="WhatsApp\WhatsAppMessage.cs" />
     <Compile Include="LaiWang\LaiWangHelper.cs" />
     <Compile Include="LaiWang\LaiWangMessage.cs" />
+    <Compile Include="Skype\SkypeHelper.cs" />
+    <Compile Include="Skype\SkypeMessage.cs" />
     <Compile Include="YYTalk\YYTalkHelper.cs" />
     <Compile Include="YYTalk\YYTalkMessage.cs" />
     <Compile Include="Yixin\YixinHelper.cs" />
