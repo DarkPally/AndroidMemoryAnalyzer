@@ -25,7 +25,9 @@
         <dxg:GridControl Grid.Row="1" AutoGenerateColumns="AddNew" EnableSmartColumnsGeneration="True"
                          ItemsSource="{Binding Msgs}" >
             <dxg:GridControl.Columns>
-                <dxg:GridColumn FieldName="Json" Header="数据包" />
+                <dxg:GridColumn FieldName="LoginID" Header="登录ID" />
+                <dxg:GridColumn FieldName="Phone" Header="手机号" />
+                <dxg:GridColumn FieldName="Name" Header="用户名" />
             </dxg:GridControl.Columns>
             <dxg:GridControl.View >
 

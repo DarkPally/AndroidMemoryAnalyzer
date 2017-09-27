@@ -33,31 +33,40 @@ namespace Demo.Library.LaiWang
             List<LaiWangMessage> result = new List<LaiWangMessage>();
             var t = analyser.ObjectInstanceInfos.Where(c => c.ClassName == "java.util.HashMap$HashMapEntry").ToList();
 
+            var msg = new LaiWangMessage();
             foreach (var it in t)
             {
-                var msg = new LaiWangMessage();
+                string tempValue = null;
+                string tempKey = null;
                 foreach (var it2 in it.InstanceFields)
                 {
                     switch (it2.Name)
                     {
                         case "value":
-                            var str= GetJavaString((it2 as ReferenceObjectInfo).ReferenceTarget as ObjectInstanceInfo);
-                            if (str!=null && str.Contains("mobile") && str.Contains("name"))
-                            {
-                                msg.Json = str;
-                            }
-
+                            tempValue = GetJavaString((it2 as ReferenceObjectInfo).ReferenceTarget as ObjectInstanceInfo);
                             break;
-                     
+                        case "key":
+                            tempKey = GetJavaString((it2 as ReferenceObjectInfo).ReferenceTarget as ObjectInstanceInfo);
+                            break;
                         default:
                             break;
                     }
                 }
-                if (msg.Json!=null)
+                if(tempKey=="name")
                 {
-                    result.Add(msg);
+                    msg.Name = tempValue;
+                }
+                else if (tempKey == "mobile")
+                {
+                    msg.Phone = tempValue;
+                }
+                else if(tempKey == "loginId")
+                {
+                    msg.LoginID = tempValue;
                 }
             }
+
+            result.Add(msg);
             return result;
         }
 
