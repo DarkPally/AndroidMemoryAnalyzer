@@ -51,6 +51,10 @@
     <Compile Include="AliPay\AliPayMessage.cs" />
     <Compile Include="BaiduHi\BaiduHiHelper.cs" />
     <Compile Include="BaiduHi\BaiduHiMessage.cs" />
+    <Compile Include="BrowserBaidu\BrowserBaiduHelper.cs" />
+    <Compile Include="BrowserBaidu\BrowserBaiduMessage.cs" />
+    <Compile Include="BrowserUC\BrowserUCHelper.cs" />
+    <Compile Include="BrowserUC\BrowserUCMessage.cs" />
     <Compile Include="BrowserQQ\BrowserQQHelper.cs" />
     <Compile Include="BrowserQQ\BrowserQQMessage.cs" />
     <Compile Include="BrowserSogou\BrowserSogouHelper.cs" />
@@ -76,6 +80,8 @@
     <Compile Include="QQMail\QQMailHelper.cs" />
     <Compile Include="QQMail\QQMailMessage.cs" />
     <Compile Include="ViewModel\AliPayViewModel.cs" />
+    <Compile Include="ViewModel\BrowserBaiduViewModel.cs" />
+    <Compile Include="ViewModel\BrowserUCViewModel.cs" />
     <Compile Include="ViewModel\BrowserSogouViewModel.cs" />
     <Compile Include="ViewModel\DolphinViewModel.cs" />
     <Compile Include="ViewModel\FetionViewModel.cs" />

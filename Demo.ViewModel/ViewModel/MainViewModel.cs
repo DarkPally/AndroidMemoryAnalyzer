@@ -43,12 +43,19 @@ namespace Demo.Library.ViewModel
 
         public SkypeViewModel SkypeViewModel { get; set; }
         public AliPayViewModel AliPayViewModel { get; set; }
+
+        public BrowserUCViewModel BrowserUCViewModel { get; set; }
+        public BrowserBaiduViewModel BrowserBaiduViewModel { get; set; }
+
         private static readonly MainViewModel instance = new MainViewModel();
         public static MainViewModel GetInstance() { return instance; }
+
         private MainViewModel()
         {
             SkypeViewModel = new SkypeViewModel();
             AliPayViewModel = new AliPayViewModel();
+            BrowserUCViewModel = new BrowserUCViewModel();
+            BrowserBaiduViewModel = new BrowserBaiduViewModel();
 
             BaiduHiViewModel = new BaiduHiViewModel();
             BaiduPanViewModel = new BaiduPanViewModel();
@@ -230,6 +237,17 @@ namespace Demo.Library.ViewModel
                     instance.AliPayViewModel.ExcuteAnalyzeFile();
                     instance.startType = type;
                     break;
+                case "com.UCMobile":
+                    instance.BrowserUCViewModel.FilePath = path;
+                    instance.BrowserUCViewModel.ExcuteAnalyzeFile();
+                    instance.startType = type;
+                    break;
+                case "com.baidu.browser.apps":
+                    instance.BrowserBaiduViewModel.FilePath = path;
+                    instance.BrowserBaiduViewModel.ExcuteAnalyzeFile();
+                    instance.startType = type;
+                    break;
+
                 default:
                     break;
             }

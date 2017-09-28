@@ -124,6 +124,12 @@ namespace Demo.WPF
                 case "com.eg.android.AlipayGphone":
                     tabControl.SelectTabItem(29);
                     break;
+                case "com.UCMobile":
+                    tabControl.SelectTabItem(30);
+                    break;
+                case "com.baidu.browser.apps":
+                    tabControl.SelectTabItem(31);
+                    break;
                 default:
                     break;
             }

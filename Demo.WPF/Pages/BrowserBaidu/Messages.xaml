@@ -1,10 +1,10 @@
-﻿<UserControl x:Class="Demo.WPF.Pages.AliPay.Messages"
+﻿<UserControl x:Class="Demo.WPF.Pages.BrowserBaidu.Messages"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              mc:Ignorable="d" 
-             DataContext="{Binding AliPayViewModel}"
+             DataContext="{Binding BrowserBaiduViewModel}"
              d:DesignHeight="300" d:DesignWidth="300"
              xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid">
     <Grid  HorizontalAlignment="Center" Width="720">
@@ -25,7 +25,8 @@
         <dxg:GridControl Grid.Row="1" AutoGenerateColumns="AddNew" EnableSmartColumnsGeneration="True"
                          ItemsSource="{Binding Msgs}" >
             <dxg:GridControl.Columns>
-                <dxg:GridColumn FieldName="Json" Header="数据包" />
+                <dxg:GridColumn FieldName="Name" Header="名称" />
+                <dxg:GridColumn FieldName="Url" Header="URL" />
             </dxg:GridControl.Columns>
             <dxg:GridControl.View >
 

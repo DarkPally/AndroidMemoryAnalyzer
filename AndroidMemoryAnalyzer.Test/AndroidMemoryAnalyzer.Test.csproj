@@ -43,6 +43,9 @@
   <ItemGroup>
     <Compile Include="AnalysisManager\AnalysisManager.cs" />
     <Compile Include="Tests\AliPay.cs" />
+    <Compile Include="Tests\BrowserBaidu.cs" />
+    <Compile Include="Tests\BrowserUC.cs" />
+    <Compile Include="Tests\BrowserSougou.cs" />
     <Compile Include="Tests\Dolphin.cs" />
     <Compile Include="Tests\OuPeng.cs" />
     <Compile Include="Tests\YY.cs" />

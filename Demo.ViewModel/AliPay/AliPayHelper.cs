@@ -32,59 +32,84 @@ namespace Demo.Library.AliPay
         public static List<AliPayMessage> GetMessages(HeapFileAnalyzer analyser)
         {
             List<AliPayMessage> result = new List<AliPayMessage>();
-            var tA = analyser.ObjectArrayInfos.Where(c => c.ClassObject!=null && c.ClassObject.ClassName == "java.util.HashMap$HashMapEntry[]").ToList();
+            var t = analyser.PrimitiveArrayInfos.Where(c => c.StringData != null
+                && c.StringData.Contains("\"billListItems\":"));
 
-            foreach(var t in tA)
+            foreach (var it in t)
             {
+                result.Add(new AliPayMessage()
+                {
+                    Json = it.StringData
+                });
+            }
+            return result;
+        }
+
+        public static List<AliPayMessage> GetMessages2(HeapFileAnalyzer analyser)
+        {
+            List<AliPayMessage> result = new List<AliPayMessage>();
+            //var tA = analyser.ObjectArrayInfos.Where(c => c.ClassObject!=null && c.ClassObject.ClassName == "java.util.HashMap$HashMapEntry[]").ToList();
+            var tA = analyser.ObjectArrayInfos;
+            foreach (var t in tA)
+            {
+                if (t == null) continue;
                 var flag = false;
                 string tState = null;
                 string tContent = null;
                 string tDate = null;
                 string tMoney = null;
 
-                foreach (ObjectInstanceInfo it in t.Elements)
+                try
                 {
-                    if (it == null) continue;
-                    string tKey = null;
-                    string tValue = null;
 
-                    foreach (var it2 in it.InstanceFields)
+                    foreach (ObjectInstanceInfo it in t.Elements)
                     {
-                        switch (it2.Name)
+                        if (it == null) continue;
+                        string tKey = null;
+                        string tValue = null;
+
+                        foreach (var it2 in it.InstanceFields)
                         {
-                            case "key":
-                                tKey = GetJavaString((it2 as ReferenceObjectInfo).ReferenceTarget as ObjectInstanceInfo);
-                                break;
+                            switch (it2.Name)
+                            {
+                                case "key":
+                                    tKey = GetJavaString((it2 as ReferenceObjectInfo).ReferenceTarget as ObjectInstanceInfo);
+                                    break;
 
-                            case "value":
-                                tValue = GetJavaString((it2 as ReferenceObjectInfo).ReferenceTarget as ObjectInstanceInfo);
+                                case "value":
+                                    tValue = GetJavaString((it2 as ReferenceObjectInfo).ReferenceTarget as ObjectInstanceInfo);
 
-                                break;
-                            default:
-                                break;
+                                    break;
+                                default:
+                                    break;
+                            }
                         }
-                    }
-                    if(tKey== "MCon")
-                    {
-                        tContent = tValue;
-                        flag = true;
-                    }
-                    else if(tKey== "HDat")
-                    {
+                        if (tKey == "MCon")
+                        {
+                            tContent = tValue;
+                            flag = true;
+                        }
+                        else if (tKey == "HDat")
+                        {
+                            flag = true;
+                            tDate = tValue;
+                        }
+                        else if (tKey == "HSta")
+                        {
+                            flag = true;
+                            tState = tValue;
+                        }
+                        else if (tKey == "HMon")
+                        {
+                            flag = true;
+                            tMoney = tValue;
+                        }
 
-                        tDate = tValue;
                     }
-                    else if (tKey == "HSta")
-                    {
-
-                        tState = tValue;
-                    }
-                    else if (tKey == "HMon")
-                    {
-                        flag = true;
-                        tMoney = tValue;
-                    }
-
+                }
+                catch
+                {
+                    continue;
                 }
                 if(flag)
                 {

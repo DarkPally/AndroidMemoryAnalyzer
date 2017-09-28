@@ -35,6 +35,9 @@
     
     xmlns:Skype="clr-namespace:Demo.WPF.Pages.Skype"
     xmlns:AliPay="clr-namespace:Demo.WPF.Pages.AliPay"
+    xmlns:BrowseUC="clr-namespace:Demo.WPF.Pages.BrowserUC"
+    xmlns:BrowserBaidu="clr-namespace:Demo.WPF.Pages.BrowserBaidu"
+    
     Title="内存取证演示程序" Height="600" Width="800"
     dx:ThemeManager.ThemeName="Office2013LightGray"
     >
@@ -199,8 +202,17 @@
                     <AliPay:Messages />
                 </Grid>
             </dx:DXTabItem>
+            <dx:DXTabItem Header="UC浏览器">
+                <Grid  Background="Transparent">
+                    <BrowseUC:Messages />
+                </Grid>
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="百度浏览器">
+                <Grid  Background="Transparent">
+                    <BrowserBaidu:Messages />
+                </Grid>
+            </dx:DXTabItem>
             
-
         </dx:DXTabControl>
 
     </Grid>
