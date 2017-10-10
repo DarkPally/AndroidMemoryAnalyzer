@@ -34,16 +34,16 @@ namespace AndroidMemoryAnalyzer
 
         public static void DoWork()
         {
-            string path = @"F:\工作项目\内存提取\test\新真机集合\com.skype.rover.hprof";
+            string path = @"F:\工作项目\内存提取\test\189邮箱2\com.corp21cn.mail189.hprof";
             HeapFileAnalyzer x = new HeapFileAnalyzer(path);
             x.DoWork();
             //lookForMessage2(x);
-            lookForMessage2(x);
+            lookForText(x);
 
         }
         static void lookForMessage2(HeapFileAnalyzer analyser)
         {
-            string keyWord = "151";
+            string keyWord = "正文测试";
 
             var t = analyser.PrimitiveArrayInfos.Where(c => c.StringData != null
                 && c.StringData.Contains(keyWord)).ToList();
@@ -66,7 +66,7 @@ namespace AndroidMemoryAnalyzer
                 tObjectInfo.Add(getObjectListContainID(analyser, it.ObjectID));
                 tObjectArrayInfo.Add(getObjectArrayListContainID(analyser, it.ObjectID));
             }
-            /*
+            
             var tObjectInfo2 = new List<List<ObjectInstanceInfo>>();
             foreach (var it in tObjectInfo)
             {
@@ -75,7 +75,16 @@ namespace AndroidMemoryAnalyzer
                     tObjectInfo2.Add(getObjectListContainID(analyser, it2.ObjectID));
                 }
             }
-            */
+
+            var tObjectInfo3 = new List<List<ObjectArrayInfo>>();
+            foreach (var it in tObjectInfo2)
+            {
+                foreach (var it2 in it)
+                {
+                    tObjectInfo3.Add(getObjectArrayListContainID(analyser, it2.ObjectID));
+                }
+            }
+
             using (FileStream fsWrite = new FileStream(String.Format("result_msg_{0}.txt",keyWord), FileMode.OpenOrCreate))
             {
                 foreach (var it_Main in tObjectInfo)
@@ -147,12 +156,12 @@ namespace AndroidMemoryAnalyzer
         {
             //com.netease.mobimail.n.c.am 邮件
             //com.netease.mobimail.n.c.k 收发人
-            string keyWord = "com.tencent.mtt.browser.history.History";
+            string keyWord = "android.text.Layout$Ellipsizer";
             var t = analyser.ObjectInstanceInfos
                 .Where(c => c.ClassName != null
                     && c.ClassName.Contains(keyWord))
                     
-                    .ToList();
+                    .OrderBy(c=>c.InstanceFields[2].Value).ToList();
             using (FileStream fsWrite = new FileStream(keyWord+".txt", FileMode.OpenOrCreate))
             {
                 foreach (var it in t)

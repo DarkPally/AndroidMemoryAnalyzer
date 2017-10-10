@@ -49,6 +49,30 @@ namespace Demo.Library.Mail163
                 }
             }
         }
+        public static string GetAccount(HeapFileAnalyzer analyser)
+        {
+            var t = analyser.ObjectInstanceInfos.Where(c => c.ClassName == "com.netease.mobimail.module.az.a.a").ToList();
+
+            foreach (var it in t)
+            {
+                foreach (var it2 in it.InstanceFields)
+                {
+                    switch (it2.Name)
+                    {
+                        case "a":
+                            var tttt = GetJavaString((it2 as ReferenceObjectInfo).ReferenceTarget as ObjectInstanceInfo);
+                            if(tttt!=null)
+                            {
+                                return tttt;
+                            }
+                            break;
+                        default:
+                            break;
+                    }
+                }
+            }
+            return null;
+        }
         public static List<Mail163Message> GetMessages(HeapFileAnalyzer analyser)
         {
             List<Mail163Message> result = new List<Mail163Message>();

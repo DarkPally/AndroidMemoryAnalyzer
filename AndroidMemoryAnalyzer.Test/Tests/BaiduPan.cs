@@ -34,7 +34,7 @@ namespace AndroidMemoryAnalyzer
 
         public static void DoWork()
         {
-            string path = @"F:\工作项目\内存提取\test\百度云盘\com.baidu.netdisk.hprof";
+            string path = @"F:\工作项目\内存提取\test\新真机集合\com.baidu.netdisk.hprof";
             HeapFileAnalyzer x = new HeapFileAnalyzer(path);
             x.DoWork();
             lookForMessage2(x);
@@ -44,7 +44,7 @@ namespace AndroidMemoryAnalyzer
         static void lookForMessage2(HeapFileAnalyzer analyser)
         {
             var t = analyser.PrimitiveArrayInfos.Where(c => c.StringData != null
-                && c.StringData.Contains("IMG")).ToList();
+                && c.StringData.Contains("pdf")).ToList();
             List<ObjectInstanceInfo> tstring = new List<ObjectInstanceInfo>();
             foreach (var it in t)
             {

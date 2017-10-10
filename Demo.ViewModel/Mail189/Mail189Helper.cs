@@ -27,7 +27,30 @@ namespace Demo.Library.Mail189
             var str_value = GetJavaString(tt1.ReferenceTarget as ObjectInstanceInfo);
             return str_value;
         }
+        public static string GetAccount(HeapFileAnalyzer analyser)
+        {
+            var t = analyser.ObjectInstanceInfos.Where(c => c.ClassName == "com.corp21cn.mailapp.MailAccount").ToList();
 
+            foreach (var it in t)
+            {
+                foreach (var it2 in it.InstanceFields)
+                {
+                    switch (it2.Name)
+                    {
+                        case "mDescription":
+                            var tttt = GetJavaString((it2 as ReferenceObjectInfo).ReferenceTarget as ObjectInstanceInfo);
+                            if (tttt != null)
+                            {
+                                return tttt;
+                            }
+                            break;
+                        default:
+                            break;
+                    }
+                }
+            }
+            return null;
+        }
         public static List<Mail189Message> GetMessages(HeapFileAnalyzer analyser)
         {
             List<Mail189Message> result = new List<Mail189Message>();
@@ -58,6 +81,32 @@ namespace Demo.Library.Mail189
                 }
                 result.Add(msg);
             }
+
+            var t2 = analyser.ObjectInstanceInfos.Where(c => c.ClassName == "android.text.Layout$Ellipsizer").ToList();
+
+            foreach (var it in t2)
+            {
+                var msg = new Mail189Message();
+                int temp = 0;
+                foreach (var it2 in it.InstanceFields)
+                {
+                    switch (it2.Name)
+                    {
+                        case "mText":
+                            msg.Content = GetJavaString((it2 as ReferenceObjectInfo).ReferenceTarget as ObjectInstanceInfo);
+                            break;
+                        case "mWidth":
+                            temp = (int)it2.Value;
+                            break;
+                      
+                    }
+                }
+                if(temp==548)
+                {
+                    result.Add(msg);
+                }
+            }
+
             return result;
         }
 
