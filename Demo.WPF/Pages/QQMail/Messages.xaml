@@ -10,6 +10,7 @@
     <Grid  HorizontalAlignment="Center" Width="720">
         <Grid.RowDefinitions>
             <RowDefinition Height="80"/>
+            <RowDefinition Height="40"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
         <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center" Height="26">
@@ -21,8 +22,12 @@
             <Button Content="开始解析"  Command="{Binding AnalyzeFile}" Margin="0,0,10,0"/>
             <TextBlock Text="{Binding State}" VerticalAlignment="Center" Margin="0,0,10,0"/>                
         </StackPanel>
+        <StackPanel Grid.Row="1" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Left" Height="26">
+            <TextBlock Text="登录账号:" Margin="10,0,10,0" VerticalAlignment="Center"/>
 
-        <dxg:GridControl Grid.Row="1" AutoGenerateColumns="AddNew" EnableSmartColumnsGeneration="True"
+            <TextBlock Text="{Binding Account}" VerticalAlignment="Center" Margin="0,0,10,0"/>
+        </StackPanel>
+        <dxg:GridControl Grid.Row="2" AutoGenerateColumns="AddNew" EnableSmartColumnsGeneration="True"
                          ItemsSource="{Binding Msgs}" >
             <dxg:GridControl.Columns>
 

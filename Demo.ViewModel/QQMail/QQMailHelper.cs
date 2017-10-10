@@ -60,6 +60,37 @@ namespace Demo.Library.QQMail
             }
             return result;
         }
+        public static string GetAccount(HeapFileAnalyzer analyser)
+        {
+            var t = analyser.ObjectInstanceInfos.Where(c => c.ClassName == "org.apache.http.impl.cookie.BasicClientCookie").ToList();
 
+            foreach (var it in t)
+            {
+
+                string tempKey = "";
+                string tempValue = "";
+                foreach (var it2 in it.InstanceFields)
+                {
+                    switch (it2.Name)
+                    {
+                        case "name":
+                            tempKey = GetJavaString((it2 as ReferenceObjectInfo).ReferenceTarget as ObjectInstanceInfo);
+
+                            break;
+                        case "value":
+                            tempValue = GetJavaString((it2 as ReferenceObjectInfo).ReferenceTarget as ObjectInstanceInfo);
+                            break;
+
+                        default:
+                            break;
+                    }
+                }
+                if (tempKey == "qqmail_alias")
+                {
+                    return tempValue;
+                }
+            }
+            return null;
+        }
     }
 }

@@ -13,6 +13,7 @@ namespace Demo.Library.QQ
         public static string GetJavaString(ObjectInstanceInfo info)
         {
             if (info == null) return null;
+            if (info.ClassName != "java.lang.String") return null;
             var tt1 = ((info as ObjectInstanceInfo).InstanceFields[0] as ReferenceObjectInfo);
             if (tt1.ReferenceTarget == null) return null;
             var str_value = (tt1.ReferenceTarget as PrimitiveArrayInfo).StringData;
@@ -134,6 +135,39 @@ namespace Demo.Library.QQ
                 result.Add(msg);
             }
             return result;
+        }
+
+        public static string GetAccount(HeapFileAnalyzer analyser)
+        {
+            var t = analyser.ObjectInstanceInfos.Where(c => c.ClassName == "java.util.HashMap$HashMapEntry" ).ToList();
+
+            foreach (var it in t)
+            {
+
+                string tempKey = "";
+                string tempValue = "";
+                foreach (var it2 in it.InstanceFields)
+                {
+                    switch (it2.Name)
+                    {
+                        case "key":
+                            tempKey = GetJavaString((it2 as ReferenceObjectInfo).ReferenceTarget as ObjectInstanceInfo);
+
+                            break;
+                        case "value":
+                            tempValue = GetJavaString((it2 as ReferenceObjectInfo).ReferenceTarget as ObjectInstanceInfo);
+                            break;
+                        
+                        default:
+                            break;
+                    }
+                }
+                if(tempKey== "QQUni")
+                {
+                    return tempValue;
+                }
+            }
+            return null;
         }
     }
 }

@@ -29,6 +29,20 @@ namespace Demo.Library.ViewModel
                 }
             }
         }
+        string account = "无";
+        public string Account
+        {
+            get { return account; }
+            set
+            {
+                if (account != value)
+                {
+                    account = value;
+                    RaisePropertyChanged("Account");
+                }
+            }
+        }
+
         string state="准备就绪";
         public string State {
             get{return state;}
@@ -68,6 +82,7 @@ namespace Demo.Library.ViewModel
 
                         x.DoWork();
                         Msgs = QQMailHelper.GetMessages(x);
+                        Account = QQMailHelper.GetAccount(x);
                         State = "解析完成！";
                     }
                     catch

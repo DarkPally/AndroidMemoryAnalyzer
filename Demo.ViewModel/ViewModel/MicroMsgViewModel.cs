@@ -15,6 +15,20 @@ namespace Demo.Library.ViewModel
 
     public class MicroMsgViewModel : BindableBase
     {
+        string account = "无";
+        public string Account
+        {
+            get { return account; }
+            set
+            {
+                if (account != value)
+                {
+                    account = value;
+                    RaisePropertyChanged("Account");
+                }
+            }
+        }
+
         List<MicroMsgFriend> friends;
         public List<MicroMsgFriend> Friends
         {
@@ -83,6 +97,7 @@ namespace Demo.Library.ViewModel
 
                         Friends = MicroMsgHelper.GetFriends(x);
                         Msgs = MicroMsgHelper.GetMessages(x);
+                        Account = MicroMsgHelper.GetAccount(x);
                         State = "解析完成！";
                     }
                     catch

@@ -34,16 +34,16 @@ namespace AndroidMemoryAnalyzer
 
         public static void DoWork()
         {
-            string path = @"F:\工作项目\内存提取\test\189邮箱2\com.corp21cn.mail189.hprof";
+            string path = @"F:\工作项目\内存提取\test\微信进程内存测试分析\com.tencent.mm.hprof";
             HeapFileAnalyzer x = new HeapFileAnalyzer(path);
             x.DoWork();
             //lookForMessage2(x);
-            lookForText(x);
+            lookForMessage2(x);
 
         }
         static void lookForMessage2(HeapFileAnalyzer analyser)
         {
-            string keyWord = "正文测试";
+            string keyWord = "lvrongyi001";
 
             var t = analyser.PrimitiveArrayInfos.Where(c => c.StringData != null
                 && c.StringData.Contains(keyWord)).ToList();

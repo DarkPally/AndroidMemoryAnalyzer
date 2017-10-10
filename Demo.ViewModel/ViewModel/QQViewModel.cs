@@ -41,6 +41,20 @@ namespace Demo.Library.ViewModel
     }
     public class QQViewModel:BindableBase
     {
+        string account = "无";
+        public string Account
+        {
+            get { return account; }
+            set
+            {
+                if (account != value)
+                {
+                    account = value;
+                    RaisePropertyChanged("Account");
+                }
+            }
+        }
+
         List<QQGroupFriendsBinder> groups;
         public List<QQGroupFriendsBinder> Groups
         {
@@ -132,6 +146,8 @@ namespace Demo.Library.ViewModel
                         Groups = temp;
 
                         Msgs = QQHelper.GetMessages(x);
+                        Account = QQHelper.GetAccount(x);
+
                         State = "解析完成！";
                     }
                     catch
